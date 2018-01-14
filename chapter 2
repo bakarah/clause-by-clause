@@ -5,9 +5,6 @@
 		"verse": "Alif, Lam, Meem.",
 		"arabic": [
 			{"clause": "الم"}
-		],
-		"english": [
-			{"clause": "Alif, Lam, Meem."}
 		]
 	},
 	"9": {
@@ -17,10 +14,6 @@
 		"arabic": [
 			{"clause": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ"},
 			{"clause": "هُدًى لِلْمُتَّقِينَ"}
-		],
-		"english": [
-			{"clause": "This is the Book about which there is no doubt"},
-			{"clause": "a guidance for those conscious of Allah -"}
 		]
 	},
 	"10": {
@@ -31,11 +24,6 @@
 			{"clause": "الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ"},
 			{"clause": "وَيُقِيمُونَ الصَّلَاةَ"},
 			{"clause": "وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ"}
-		],
-		"english": [
-			{"clause": "Who believe in the unseen,"},
-			{"clause": "establish prayer,"},
-			{"clause": "and spend out of what We have provided for them,"}
 		]
 	},
 	"11": {
@@ -46,11 +34,6 @@
 			{"clause": "وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ"},
 			{"clause": "وَمَا أُنزِلَ مِن قَبْلِكَ"},
 			{"clause": "وَبِالْآخِرَةِ هُمْ يُوقِنُونَ"}
-		],
-		"english": [
-			{"clause": "And who believe in what has been revealed to you, [O Muhammad],"},
-			{"clause": "and what was revealed before you,"},
-			{"clause": "and of the Hereafter they are certain [in faith]."}
 		]
 	},
 	"12": {
@@ -60,10 +43,6 @@
 		"arabic": [
 			{"clause": "أُولَٰئِكَ عَلَىٰ هُدًى مِنْ رَبِّهِمْ"},
 			{"clause": "وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ"}
-		],
-		"english": [
-			{"clause": "Those are upon [right] guidance from their Lord"},
-			{"clause": "and it is those who are the successful."}
 		]
 	},
 	"13": {
@@ -73,10 +52,6 @@
 		"arabic": [
 			{"clause": "إِنَّ الَّذِينَ كَفَرُوا سَوَاءٌ عَلَيْهِمْ"},
 			{"clause": "أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ"}
-		],
-		"english": [
-			{"clause": "Indeed, those who disbelieve - it is all the same for them"},
-			{"clause": "whether you warn them or do not warn them - they will not believe."}
 		]
 	},
 	"14": {
@@ -87,11 +62,6 @@
 			{"clause": "خَتَمَ اللَّهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ"},
 			{"clause": "وَعَلَىٰ أَبْصَارِهِمْ غِشَاوَةٌ"},
 			{"clause": "وَلَهُمْ عَذَابٌ عَظِيمٌ"}
-		],
-		"english": [
-			{"clause": "Allah has set a seal upon their hearts and upon their hearing,"},
-			{"clause": "and over their vision is a veil."},
-			{"clause": "And for them is a great punishment."}
 		]
 	},
 	"15": {
@@ -101,10 +71,6 @@
 		"arabic": [
 			{"clause": "وَمِنَ النَّاسِ مَن يَقُولُ آمَنَّا بِاللَّهِ وَبِالْيَوْمِ الْآخِرِ"},
 			{"clause": "وَمَا هُم بِمُؤْمِنِينَ"}
-		],
-		"english": [
-			{"clause": "And of the people are some who say, \"We believe in Allah and the Last Day,\""},
-			{"clause": "but they are not believers."}
 		]
 	},
 	"16": {
@@ -114,10 +80,6 @@
 		"arabic": [
 			{"clause": "يُخَادِعُونَ اللَّهَ وَالَّذِينَ آمَنُوا"},
 			{"clause": "وَمَا يَخْدَعُونَ إِلَّا أَنفُسَهُمْ وَمَا يَشْعُرُونَ"}
-		],
-		"english": [
-			{"clause": "They [think to] deceive Allah and those who believe,"},
-			{"clause": "but they deceive not except themselves and perceive [it] not."}
 		]
 	},
 	"17": {
@@ -128,11 +90,6 @@
 			{"clause": "فِي قُلُوبِهِم مَّرَضٌ"},
 			{"clause": "فَزَادَهُمُ اللَّهُ مَرَضًا"},
 			{"clause": "وَلَهُمْ عَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْذِبُونَ"}
-		],
-		"english": [
-			{"clause": "In their hearts is disease,"},
-			{"clause": "so Allah has increased their disease;"},
-			{"clause": "and for them is a painful punishment because they [habitually] used to lie."}
 		]
 	},
 	"18": {
@@ -142,10 +99,6 @@
 		"arabic": [
 			{"clause": "وَإِذَا قِيلَ لَهُمْ لَا تُفْسِدُوا فِي الْأَرْضِ"},
 			{"clause": "قَالُوا إِنَّمَا نَحْنُ مُصْلِحُونَ"}
-		],
-		"english": [
-			{"clause": "And when it is said to them, \"Do not cause corruption on the earth,\""},
-			{"clause": "they say, \"We are but reformers.\""}
 		]
 	},
 	"19": {
@@ -154,9 +107,6 @@
 		"verse": "Unquestionably, it is they who are the corrupters, but they perceive [it] not.",
 		"arabic": [
 			{"clause": "أَلَا إِنَّهُمْ هُمُ الْمُفْسِدُونَ وَلَٰكِن لَّا يَشْعُرُونَ"}
-		],
-		"english": [
-			{"clause": "Unquestionably, it is they who are the corrupters, but they perceive [it] not."}
 		]
 	},
 	"20": {
@@ -167,11 +117,6 @@
 			{"clause": "وَإِذَا قِيلَ لَهُمْ آمِنُوا كَمَا آمَنَ النَّاسُ"},
 			{"clause": "قَالُوا أَنُؤْمِنُ كَمَا آمَنَ السُّفَهَاءُ"},
 			{"clause": "أَلَا إِنَّهُمْ هُمُ السُّفَهَاءُ وَلَٰكِن لَّا يَعْلَمُونَ"}
-		],
-		"english": [
-			{"clause": "And when it is said to them, \"Believe as the people have believed,\""},
-			{"clause": "they say, \"Should we believe as the foolish have believed?\""},
-			{"clause": "Unquestionably, it is they who are the foolish, but they know [it] not."}
 		]
 	},
 	"21": {
@@ -182,11 +127,6 @@
 			{"clause": "وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا"},
 			{"clause": "وَإِذَا خَلَوْا إِلَىٰ شَيَاطِينِهِمْ قَالُوا إِنَّا مَعَكُمْ"},
 			{"clause": "إِنَّمَا نَحْنُ مُسْتَهْزِئُونَ"}
-		],
-		"english": [
-			{"clause": "And when they meet those who believe, they say, \"We believe\";"},
-			{"clause": "but when they are alone with their evil ones, they say, \"Indeed, we are with you;"},
-			{"clause": "we were only mockers.\""}
 		]
 	},
 	"22": {
@@ -195,9 +135,6 @@
 		"verse": "[But] Allah mocks them and prolongs them in their transgression [while] they wander blindly.",
 		"arabic": [
 			{"clause": "اللَّهُ يَسْتَهْزِئُ بِهِمْ وَيَمُدُّهُمْ فِي طُغْيَانِهِمْ يَعْمَهُونَ"}
-		],
-		"english": [
-			{"clause": "[But] Allah mocks them and prolongs them in their transgression [while] they wander blindly."}
 		]
 	},
 	"23": {
@@ -208,11 +145,6 @@
 			{"clause": "أُولَٰئِكَ الَّذِينَ اشْتَرَوُا الضَّلَالَةَ بِالْهُدَىٰ"},
 			{"clause": "فَمَا رَبِحَت تِّجَارَتُهُمْ"},
 			{"clause": "وَمَا كَانُوا مُهْتَدِينَ"}
-		],
-		"english": [
-			{"clause": "Those are the ones who have purchased error [in exchange] for guidance,"},
-			{"clause": "so their transaction has brought no profit,"},
-			{"clause": "nor were they guided."}
 		]
 	},
 	"24": {
@@ -223,11 +155,6 @@
 			{"clause": "مَثَلُهُمْ كَمَثَلِ الَّذِي اسْتَوْقَدَ نَارًا"},
 			{"clause": "فَلَمَّا أَضَاءَتْ مَا حَوْلَهُ"},
 			{"clause": "ذَهَبَ اللَّهُ بِنُورِهِمْ وَتَرَكَهُمْ فِي ظُلُمَاتٍ لَّا يُبْصِرُونَ"}
-		],
-		"english": [
-			{"clause": "Their example is that of one who kindled a fire"},
-			{"clause": "but when it illuminated what was around him,"},
-			{"clause": "Allah took away their light and left them in darkness [so] they could not see."}
 		]
 	},
 	"25": {
@@ -236,9 +163,6 @@
 		"verse": "Deaf, dumb and blind - so they will not return [to the right path].",
 		"arabic": [
 			{"clause": "صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لَا يَرْجِعُونَ"}
-		],
-		"english": [
-			{"clause": "Deaf, dumb and blind - so they will not return [to the right path]."}
 		]
 	},
 	"26": {
@@ -249,11 +173,6 @@
 			{"clause": "أَوْ كَصَيِّبٍ مِّنَ السَّمَاءِ فِيهِ ظُلُمَاتٌ وَرَعْدٌ وَبَرْقٌ"},
 			{"clause": "يَجْعَلُونَ أَصَابِعَهُمْ فِي آذَانِهِم مِّنَ الصَّوَاعِقِ حَذَرَ الْمَوْتِ"},
 			{"clause": "وَاللَّهُ مُحِيطٌ بِالْكَافِرِينَ"}
-		],
-		"english": [
-			{"clause": "Or [it is] like a rainstorm from the sky within which is darkness, thunder and lightning."},
-			{"clause": "They put their fingers in their ears against the thunderclaps in dread of death."},
-			{"clause": "But Allah is encompassing of the disbelievers."}
 		]
 	},
 	"27": {
@@ -266,13 +185,6 @@
 			{"clause": "وَإِذَا أَظْلَمَ عَلَيْهِمْ قَامُوا"},
 			{"clause": "وَلَوْ شَاءَ اللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَارِهِمْ"},
 			{"clause": "إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ"}
-		],
-		"english": [
-			{"clause": "The lightning almost snatches away their sight."},
-			{"clause": "Every time it lights [the way] for them, they walk therein;"},
-			{"clause": "but when darkness comes over them, they stand [still]."},
-			{"clause": "And if Allah had willed, He could have taken away their hearing and their sight."},
-			{"clause": "Indeed, Allah is over all things competent."}
 		]
 	},
 	"28": {
@@ -282,10 +194,6 @@
 		"arabic": [
 			{"clause": "يَا أَيُّهَا النَّاسُ"},
 			{"clause": "اعْبُدُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ وَالَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ"}
-		],
-		"english": [
-			{"clause": "O mankind,"},
-			{"clause": "worship your Lord, who created you and those before you, that you may become righteous -"}
 		]
 	},
 	"29": {
@@ -298,13 +206,6 @@
 			{"clause": "فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَّكُمْ"},
 			{"clause": "فَلَا تَجْعَلُوا لِلَّهِ أَندَادًا"},
 			{"clause": "وَأَنتُمْ تَعْلَمُونَ"}
-		],
-		"english": [
-			{"clause": "[He] who made for you the earth a bed [spread out] and the sky a ceiling"},
-			{"clause": "and sent down from the sky, rain"},
-			{"clause": "and brought forth thereby fruits as provision for you."},
-			{"clause": "So do not attribute to Allah equals"},
-			{"clause": "while you know [that there is nothing similar to Him]."}
 		]
 	},
 	"30": {
@@ -316,12 +217,6 @@
 			{"clause": "فَأْتُوا بِسُورَةٍ مِّن مِّثْلِهِ"},
 			{"clause": "وَادْعُوا شُهَدَاءَكُم مِّن دُونِ اللَّهِ"},
 			{"clause": "إِن كُنتُمْ صَادِقِينَ"}
-		],
-		"english": [
-			{"clause": "And if you are in doubt about what We have sent down upon Our Servant [Muhammad],"},
-			{"clause": "then produce a surah the like thereof"},
-			{"clause": "and call upon your witnesses other than Allah,"},
-			{"clause": "if you should be truthful."}
 		]
 	},
 	"31": {
@@ -333,12 +228,6 @@
 			{"clause": "وَلَن تَفْعَلُوا"},
 			{"clause": "فَاتَّقُوا النَّارَ الَّتِي وَقُودُهَا النَّاسُ وَالْحِجَارَةُ"},
 			{"clause": "أُعِدَّتْ لِلْكَافِرِينَ"}
-		],
-		"english": [
-			{"clause": "But if you do not -"},
-			{"clause": "and you will never be able to -"},
-			{"clause": "then fear the Fire, whose fuel is men and stones,"},
-			{"clause": "prepared for the disbelievers."}
 		]
 	},
 	"32": {
@@ -352,14 +241,6 @@
 			{"clause": "وَأُتُوا بِهِ مُتَشَابِهًا"},
 			{"clause": "وَلَهُمْ فِيهَا أَزْوَاجٌ مُّطَهَّرَةٌ"},
 			{"clause": "وَهُمْ فِيهَا خَالِدُونَ"}
-		],
-		"english": [
-			{"clause": "And give good tidings to those who believe and do righteous deeds that they will have gardens [in Paradise] beneath which rivers flow."},
-			{"clause": "Whenever they are provided with a provision of fruit therefrom,"},
-			{"clause": "they will say, \"This is what we were provided with before.\""},
-			{"clause": "And it is given to them in likeness."},
-			{"clause": "And they will have therein purified spouses,"},
-			{"clause": "and they will abide therein eternally."}
 		]
 	},
 	"33": {
@@ -373,14 +254,6 @@
 			{"clause": "فَيَقُولُونَ مَاذَا أَرَادَ اللَّهُ بِهَٰذَا مَثَلً"},
 			{"clause": "يُضِلُّ بِهِ كَثِيرًا وَيَهْدِي بِهِ كَثِيرًا"},
 			{"clause": "وَمَا يُضِلُّ بِهِ إِلَّا الْفَاسِقِينَ"}
-		],
-		"english": [
-			{"clause": "Indeed, Allah is not timid to present an example - that of a mosquito or what is smaller than it."},
-			{"clause": "And those who have believed know that it is the truth from their Lord."},
-			{"clause": "But as for those who disbelieve,"},
-			{"clause": "they say, \"What did Allah intend by this as an example?\""},
-			{"clause": "He misleads many thereby and guides many thereby."},
-			{"clause": "And He misleads not except the defiantly disobedient,"}
 		]
 	},
 	"34": {
@@ -392,12 +265,6 @@
 			{"clause": "وَيَقْطَعُونَ مَا أَمَرَ اللَّهُ بِهِ أَن يُوصَلَ"},
 			{"clause": "وَيُفْسِدُونَ فِي الْأَرْضِ"},
 			{"clause": "أُولَٰئِكَ هُمُ الْخَاسِرُونَ"}
-		],
-		"english": [
-			{"clause": "Who break the covenant of Allah after contracting it"},
-			{"clause": "and sever that which Allah has ordered to be joined"},
-			{"clause": "and cause corruption on earth."},
-			{"clause": "It is those who are the losers."}
 		]
 	},
 	"35": {
@@ -409,12 +276,6 @@
 			{"clause": "ثُمَّ يُمِيتُكُمْ"},
 			{"clause": "ثُمَّ يُحْيِيكُمْ"},
 			{"clause": "ثُمَّ إِلَيْهِ تُرْجَعُونَ"}
-		],
-		"english": [
-			{"clause": "How can you disbelieve in Allah when you were lifeless and He brought you to life;"},
-			{"clause": "then He will cause you to die,."},
-			{"clause": "then He will bring you [back] to life,"},
-			{"clause": "and then to Him you will be returned."}
 		]
 	},
 	"36": {
@@ -426,12 +287,6 @@
 			{"clause": "ثُمَّ اسْتَوَىٰ إِلَى السَّمَاءِ"},
 			{"clause": "فَسَوَّاهُنَّ سَبْعَ سَمَاوَاتٍ"},
 			{"clause": "وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ"}
-		],
-		"english": [
-			{"clause": "It is He who created for you all of that which is on the earth."},
-			{"clause": "Then He directed Himself to the heaven, [His being above all creation],"},
-			{"clause": "and made them seven heavens,"},
-			{"clause": "and He is Knowing of all things."}
 		]
 	},
 	"37": {
@@ -442,11 +297,6 @@
 			{"clause": "وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً"},
 			{"clause": "قَالُوا أَتَجْعَلُ فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ الدِّمَاءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ"},
 			{"clause": "قَالَ إِنِّي أَعْلَمُ مَا لَا تَعْلَمُونَ"}
-		],
-		"english": [
-			{"clause": "And [mention, O Muhammad], when your Lord said to the angels, \"Indeed, I will make upon the earth a successive authority.\""},
-			{"clause": "They said, \"Will You place upon it one who causes corruption therein and sheds blood, while we declare Your praise and sanctify You?\""},
-			{"clause": "Allah said, \"Indeed, I know that which you do not know.\""}
 		]
 	},
 	"38": {
@@ -458,12 +308,6 @@
 			{"clause": "ثُمَّ عَرَضَهُمْ عَلَى الْمَلَائِكَةِ فَقَالَ "},
 			{"clause": "أَنبِئُونِي بِأَسْمَاءِ هَٰؤُلَاءِ"},
 			{"clause": "إِن كُنتُمْ صَادِقِينَ"}
-		],
-		"english": [
-			{"clause": "And He taught Adam the names - all of them."},
-			{"clause": "Then He showed them to the angels and said,"},
-			{"clause": "\"Inform Me of the names of these,"},
-			{"clause": " if you are truthful.\""}
 		]
 	},
 	"39": {
@@ -474,11 +318,6 @@
 			{"clause": "قَالُوا سُبْحَانَكَ"},
 			{"clause": "لَا عِلْمَ لَنَا إِلَّا مَا عَلَّمْتَنَا"},
 			{"clause": "إِنَّكَ أَنتَ الْعَلِيمُ الْحَكِيمُ"}
-		],
-		"english": [
-			{"clause": "They said, \"Exalted are You;"},
-			{"clause": "we have no knowledge except what You have taught us."},
-			{"clause": " Indeed, it is You who is the Knowing, the Wise.\""}
 		]
 	},
 	"40": {
@@ -490,12 +329,6 @@
 			{"clause": "فَلَمَّا أَنبَأَهُم بِأَسْمَائِهِمْ قَالَ"},
 			{"clause": "أَلَمْ أَقُل لَّكُمْ إِنِّي أَعْلَمُ غَيْبَ السَّمَاوَاتِ وَالْأَرْضِ"},
 			{"clause": "وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنتُمْ تَكْتُمُونَ"}
-		],
-		"english": [
-			{"clause": "He said, \"O Adam, inform them of their names.\""},
-			{"clause": "And when he had informed them of their names, He said,"},
-			{"clause": "\"Did I not tell you that I know the unseen [aspects] of the heavens and the earth?"},
-			{"clause": "And I know what you reveal and what you have concealed.\""}
 		]
 	},
 	"41": {
@@ -506,11 +339,6 @@
 			{"clause": "وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ"},
 			{"clause": "فَسَجَدُوا إِلَّا إِبْلِيسَ"},
 			{"clause": "أَبَىٰ وَاسْتَكْبَرَ وَكَانَ مِنَ الْكَافِرِينَ"}
-		],
-		"english": [
-			{"clause": "And [mention] when We said to the angels, \"Prostrate before Adam\";"},
-			{"clause": "so they prostrated, except for Iblees."},
-			{"clause": "He refused and was arrogant and became of the disbelievers."}
 		]
 	},
 	"42": {
@@ -520,10 +348,6 @@
 		"arabic": [
 			{"clause": "وَقُلْنَا يَا آدَمُ اسْكُنْ أَنتَ وَزَوْجُكَ الْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا"},
 			{"clause": "وَلَا تَقْرَبَا هَٰذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ"}
-		],
-		"english": [
-			{"clause": "And We said, \"O Adam, dwell, you and your wife, in Paradise and eat therefrom in [ease and] abundance from wherever you will."},
-			{"clause": "But do not approach this tree, lest you be among the wrongdoers.\""}
 		]
 	},
 	"43": {
@@ -534,11 +358,6 @@
 			{"clause": "فَأَزَلَّهُمَا الشَّيْطَانُ عَنْهَا فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ"},
 			{"clause": "وَقُلْنَا اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ"},
 			{"clause": "وَلَكُمْ فِي الْأَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ إِلَىٰ حِينٍ"}
-		],
-		"english": [
-			{"clause": "But Satan caused them to slip out of it and removed them from that [condition] in which they had been."},
-			{"clause": "And We said, \"Go down, [all of you], as enemies to one another,"},
-			{"clause": "and you will have upon the earth a place of settlement and provision for a time.\""}
 		]
 	},
 	"44": {
@@ -548,10 +367,6 @@
 		"arabic": [
 			{"clause": "فَتَلَقَّىٰ آدَمُ مِن رَّبِّهِ كَلِمَاتٍ فَتَابَ عَلَيْهِ"},
 			{"clause": "إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ"}
-		],
-		"english": [
-			{"clause": "Then Adam received from his Lord [some] words, and He accepted his repentance."},
-			{"clause": " Indeed, it is He who is the Accepting of repentance, the Merciful."}
 		]
 	},
 	"45": {
@@ -562,11 +377,6 @@
 			{"clause": "قُلْنَا اهْبِطُوا مِنْهَا جَمِيعًا"},
 			{"clause": "فَإِمَّا يَأْتِيَنَّكُم مِّنِّي هُدًى"},
 			{"clause": " فَمَن تَبِعَ هُدَايَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ"}
-		],
-		"english": [
-			{"clause": "We said, \"Go down from it, all of you."},
-			{"clause": "And when guidance comes to you from Me,"},
-			{"clause": " whoever follows My guidance - there will be no fear concerning them, nor will they grieve."}
 		]
 	},
 	"46": {
@@ -577,11 +387,6 @@
 			{"clause": "وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا"},
 			{"clause": "أُولَٰئِكَ أَصْحَابُ النَّارِ"},
 			{"clause": "هُمْ فِيهَا خَالِدُونَ"}
-		],
-		"english": [
-			{"clause": "And those who disbelieve and deny Our signs - "},
-			{"clause": "those will be companions of the Fire;"},
-			{"clause": "they will abide therein eternally.\""}
 		]
 	},
 	"47": {
