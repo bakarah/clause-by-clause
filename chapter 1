@@ -1,0 +1,81 @@
+{
+	"1": {
+		"surah": 1,
+		"ayah": 1,
+		"verse": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+		"arabic": [
+			{"clause": "﻿﻿بِسْمِ اللَّهِ الرَّحْمَٰنِ"}
+		],
+		"english": [
+			{"clause": "In the name of Allah, the Entirely Merciful, the Especially Merciful."}
+		]
+	},
+	"2": {
+		"surah": 1,
+		"ayah": 2,
+		"verse": "[All] praise is [due] to Allah, Lord of the worlds -",
+		"arabic": [
+			{"clause": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ"}
+		],
+		"english": [
+			{"clause": "[All] praise is [due] to Allah, Lord of the worlds -"}
+		]
+	},
+	"3": {
+		"surah": 1,
+		"ayah": 3,
+		"verse": "The Entirely Merciful, the Especially Merciful,",
+		"arabic": [
+			{"clause": "الرَّحْمَٰنِ الرَّحِيمِ"}
+		],
+		"english": [
+			{"clause": "The Entirely Merciful, the Especially Merciful,"}
+		]
+	},
+	"4": {
+		"surah": 1,
+		"ayah": 4,
+		"verse": "Sovereign of the Day of Recompense.",
+		"arabic": [
+			{"clause": "مَالِكِ يَوْمِ الدِّينِ"}
+		],
+		"english": [
+			{"clause": "Sovereign of the Day of Recompense."}
+		]
+	},
+	"5": {
+		"surah": 1,
+		"ayah": 5,
+		"verse": "It is You we worship and You we ask for help.",
+		"arabic": [
+			{"clause": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ"}
+		],
+		"english": [
+			{"clause": "It is You we worship and You we ask for help."}
+		]
+	},
+	"6": {
+		"surah": 1,
+		"ayah": 6,
+		"verse": "Guide us to the straight path -",
+		"arabic": [
+			{"clause": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ"}
+		],
+		"english": [
+			{"clause": "Guide us to the straight path -"}
+		]
+	},
+	"7": {
+		"surah": 1,
+		"ayah": 7,
+		"verse": "The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray.",
+		"arabic": [
+			{"clause": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ"},
+			{"clause": "غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ"}
+		],
+		"english": [
+			{"clause": "The path of those upon whom You have bestowed favor"},
+			{"clause": "not of those who have evoked [Your] anger or of those who are astray."}
+		]
+	}
+}
