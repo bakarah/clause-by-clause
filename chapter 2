@@ -600,19 +600,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"48": {
@@ -631,19 +618,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"49": {
@@ -662,19 +636,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"50": {
@@ -693,19 +654,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"51": {
@@ -724,19 +672,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"52": {
@@ -755,19 +690,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"53": {
@@ -786,19 +708,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"54": {
@@ -817,19 +726,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"55": {
@@ -848,19 +744,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"56": {
@@ -879,19 +762,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"57": {
@@ -910,19 +780,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"58": {
@@ -941,19 +798,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"59": {
@@ -972,19 +816,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"60": {
@@ -1003,19 +834,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"61": {
@@ -1034,19 +852,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"62": {
@@ -1065,19 +870,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"63": {
@@ -1096,19 +888,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"64": {
@@ -1127,19 +906,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"65": {
@@ -1158,19 +924,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"66": {
@@ -1189,19 +942,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"67": {
@@ -1220,19 +960,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"68": {
@@ -1251,19 +978,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"69": {
@@ -1282,19 +996,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"70": {
@@ -1313,19 +1014,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"71": {
@@ -1344,19 +1032,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"72": {
@@ -1375,19 +1050,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"73": {
@@ -1406,19 +1068,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"74": {
@@ -1437,19 +1086,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"75": {
@@ -1468,19 +1104,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"76": {
@@ -1499,19 +1122,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"77": {
@@ -1530,19 +1140,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"78": {
@@ -1561,19 +1158,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"79": {
@@ -1592,19 +1176,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"80": {
@@ -1623,19 +1194,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"81": {
@@ -1654,19 +1212,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"82": {
@@ -1685,19 +1230,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"83": {
@@ -1716,19 +1248,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"84": {
@@ -1747,19 +1266,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"85": {
@@ -1778,19 +1284,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"86": {
@@ -1809,19 +1302,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"87": {
@@ -1840,19 +1320,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"88": {
@@ -1871,19 +1338,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"89": {
@@ -1902,19 +1356,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"90": {
@@ -1933,19 +1374,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"91": {
@@ -1964,19 +1392,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"92": {
@@ -1995,19 +1410,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"93": {
@@ -2026,19 +1428,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"94": {
@@ -2057,19 +1446,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"95": {
@@ -2088,19 +1464,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"96": {
@@ -2119,19 +1482,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"97": {
@@ -2150,19 +1500,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"98": {
@@ -2181,19 +1518,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"99": {
@@ -2212,19 +1536,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"100": {
@@ -2243,19 +1554,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"101": {
@@ -2274,19 +1572,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"102": {
@@ -2305,19 +1590,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"103": {
@@ -2336,19 +1608,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"104": {
@@ -2367,19 +1626,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"105": {
@@ -2398,19 +1644,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"106": {
@@ -2429,19 +1662,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"107": {
@@ -2460,19 +1680,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"108": {
@@ -2491,19 +1698,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"109": {
@@ -2522,19 +1716,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"110": {
@@ -2553,19 +1734,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"111": {
@@ -2584,19 +1752,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"112": {
@@ -2615,19 +1770,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"113": {
@@ -2646,19 +1788,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"114": {
@@ -2677,19 +1806,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"115": {
@@ -2708,19 +1824,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"116": {
@@ -2739,19 +1842,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"117": {
@@ -2770,19 +1860,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"118": {
@@ -2801,19 +1878,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"119": {
@@ -2832,19 +1896,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"120": {
@@ -2863,19 +1914,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"121": {
@@ -2894,19 +1932,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"122": {
@@ -2925,19 +1950,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"123": {
@@ -2956,19 +1968,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"124": {
@@ -2987,19 +1986,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"125": {
@@ -3018,19 +2004,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"126": {
@@ -3049,19 +2022,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"127": {
@@ -3080,19 +2040,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"128": {
@@ -3111,19 +2058,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"129": {
@@ -3142,19 +2076,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"130": {
@@ -3173,19 +2094,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"131": {
@@ -3204,19 +2112,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"132": {
@@ -3235,19 +2130,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"133": {
@@ -3266,19 +2148,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"134": {
@@ -3297,19 +2166,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"135": {
@@ -3328,19 +2184,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"136": {
@@ -3359,19 +2202,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"137": {
@@ -3390,19 +2220,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"138": {
@@ -3421,19 +2238,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"139": {
@@ -3452,19 +2256,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"140": {
@@ -3483,19 +2274,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"141": {
@@ -3514,19 +2292,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"142": {
@@ -3545,19 +2310,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"143": {
@@ -3576,19 +2328,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"144": {
@@ -3607,19 +2346,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"145": {
@@ -3638,19 +2364,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"146": {
@@ -3669,19 +2382,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"147": {
@@ -3700,19 +2400,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"148": {
@@ -3731,19 +2418,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"149": {
@@ -3762,19 +2436,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"150": {
@@ -3793,19 +2454,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"151": {
@@ -3824,19 +2472,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"152": {
@@ -3855,19 +2490,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"153": {
@@ -3886,19 +2508,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"154": {
@@ -3917,19 +2526,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"155": {
@@ -3948,19 +2544,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"156": {
@@ -3979,19 +2562,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"157": {
@@ -4010,19 +2580,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"158": {
@@ -4041,19 +2598,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"159": {
@@ -4072,19 +2616,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"160": {
@@ -4103,19 +2634,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"161": {
@@ -4134,19 +2652,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"162": {
@@ -4165,19 +2670,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"163": {
@@ -4196,19 +2688,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"164": {
@@ -4227,19 +2706,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"165": {
@@ -4258,19 +2724,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"166": {
@@ -4289,19 +2742,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"167": {
@@ -4320,19 +2760,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"168": {
@@ -4351,19 +2778,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"169": {
@@ -4382,19 +2796,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"170": {
@@ -4413,19 +2814,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"171": {
@@ -4444,19 +2832,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"172": {
@@ -4475,19 +2850,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"173": {
@@ -4506,19 +2868,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"174": {
@@ -4537,19 +2886,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"175": {
@@ -4568,19 +2904,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"176": {
@@ -4599,19 +2922,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"177": {
@@ -4630,19 +2940,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"178": {
@@ -4661,19 +2958,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"179": {
@@ -4692,19 +2976,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"180": {
@@ -4723,19 +2994,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"181": {
@@ -4754,19 +3012,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"182": {
@@ -4785,19 +3030,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"183": {
@@ -4816,19 +3048,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"184": {
@@ -4847,19 +3066,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"185": {
@@ -4878,19 +3084,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"186": {
@@ -4909,19 +3102,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"187": {
@@ -4940,19 +3120,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"188": {
@@ -4971,19 +3138,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"189": {
@@ -5002,19 +3156,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"190": {
@@ -5033,19 +3174,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"191": {
@@ -5064,19 +3192,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"192": {
@@ -5095,19 +3210,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"193": {
@@ -5126,19 +3228,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"194": {
@@ -5157,19 +3246,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"195": {
@@ -5188,19 +3264,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"196": {
@@ -5219,19 +3282,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"197": {
@@ -5250,19 +3300,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"198": {
@@ -5281,19 +3318,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"199": {
@@ -5312,19 +3336,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"200": {
@@ -5343,19 +3354,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"201": {
@@ -5374,19 +3372,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"202": {
@@ -5405,19 +3390,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"203": {
@@ -5436,19 +3408,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"204": {
@@ -5467,19 +3426,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"205": {
@@ -5498,19 +3444,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"206": {
@@ -5529,19 +3462,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"207": {
@@ -5560,19 +3480,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"208": {
@@ -5591,19 +3498,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"209": {
@@ -5622,19 +3516,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"210": {
@@ -5653,19 +3534,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"211": {
@@ -5684,19 +3552,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"212": {
@@ -5715,19 +3570,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"213": {
@@ -5746,19 +3588,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"214": {
@@ -5777,19 +3606,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"215": {
@@ -5808,19 +3624,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"216": {
@@ -5839,19 +3642,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"217": {
@@ -5870,19 +3660,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"218": {
@@ -5901,19 +3678,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"219": {
@@ -5932,19 +3696,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"220": {
@@ -5963,19 +3714,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"221": {
@@ -5994,19 +3732,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"222": {
@@ -6025,19 +3750,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"223": {
@@ -6056,19 +3768,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"224": {
@@ -6087,19 +3786,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"225": {
@@ -6118,19 +3804,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"226": {
@@ -6149,19 +3822,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"227": {
@@ -6180,19 +3840,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"228": {
@@ -6211,19 +3858,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"229": {
@@ -6242,19 +3876,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"230": {
@@ -6273,19 +3894,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"231": {
@@ -6304,19 +3912,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"232": {
@@ -6335,19 +3930,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"233": {
@@ -6366,19 +3948,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"234": {
@@ -6397,19 +3966,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"235": {
@@ -6428,19 +3984,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"236": {
@@ -6459,19 +4002,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"237": {
@@ -6490,19 +4020,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"238": {
@@ -6521,19 +4038,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"239": {
@@ -6552,19 +4056,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"240": {
@@ -6583,19 +4074,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"241": {
@@ -6614,19 +4092,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"242": {
@@ -6645,19 +4110,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"243": {
@@ -6676,19 +4128,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"244": {
@@ -6707,19 +4146,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"245": {
@@ -6738,19 +4164,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"246": {
@@ -6769,19 +4182,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"247": {
@@ -6800,19 +4200,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"248": {
@@ -6831,19 +4218,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"249": {
@@ -6862,19 +4236,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"250": {
@@ -6893,19 +4254,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"251": {
@@ -6924,19 +4272,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"252": {
@@ -6955,19 +4290,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"253": {
@@ -6986,19 +4308,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"254": {
@@ -7017,19 +4326,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"255": {
@@ -7048,19 +4344,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"256": {
@@ -7079,19 +4362,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"257": {
@@ -7110,19 +4380,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"258": {
@@ -7141,19 +4398,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"259": {
@@ -7172,19 +4416,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"260": {
@@ -7203,19 +4434,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"261": {
@@ -7234,19 +4452,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"262": {
@@ -7265,19 +4470,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"263": {
@@ -7296,19 +4488,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"264": {
@@ -7327,19 +4506,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"265": {
@@ -7358,19 +4524,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"266": {
@@ -7389,19 +4542,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"267": {
@@ -7420,19 +4560,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"268": {
@@ -7451,19 +4578,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"269": {
@@ -7482,19 +4596,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"270": {
@@ -7513,19 +4614,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"271": {
@@ -7544,19 +4632,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"272": {
@@ -7575,19 +4650,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"273": {
@@ -7606,19 +4668,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"274": {
@@ -7637,19 +4686,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"275": {
@@ -7668,19 +4704,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"276": {
@@ -7699,19 +4722,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"277": {
@@ -7730,19 +4740,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"278": {
@@ -7761,19 +4758,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"279": {
@@ -7792,19 +4776,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"280": {
@@ -7823,19 +4794,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"281": {
@@ -7854,19 +4812,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"282": {
@@ -7885,19 +4830,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"283": {
@@ -7916,19 +4848,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"284": {
@@ -7947,19 +4866,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"285": {
@@ -7978,19 +4884,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"286": {
@@ -8009,19 +4902,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"287": {
@@ -8040,19 +4920,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"288": {
@@ -8071,19 +4938,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"289": {
@@ -8102,19 +4956,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"290": {
@@ -8133,19 +4974,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"291": {
@@ -8164,19 +4992,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"292": {
@@ -8195,19 +5010,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	},
 	"293": {
@@ -8226,19 +5028,6 @@
 			{"clause": "arabic"},
 			{"clause": "arabic"},
 			{"clause": "arabic"}
-		],
-		"english": [
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"},
-			{"clause": "english"}
 		]
 	}
 }
