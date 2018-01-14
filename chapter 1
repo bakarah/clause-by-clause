@@ -15,10 +15,12 @@
 		"ayah": 2,
 		"verse": "[All] praise is [due] to Allah, Lord of the worlds -",
 		"arabic": [
-			{"clause": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ"}
+			{"clause": "الْحَمْدُ لِلَّهِ رَبِّ"},
+			{"clause": "رَبِّ الْعَالَمِينَ"}
 		],
 		"english": [
-			{"clause": "[All] praise is [due] to Allah, Lord of the worlds -"}
+			{"clause": "[All] praise is [due] to Allah"},
+			{"clause": "Lord of the worlds"}
 		]
 	},
 	"3": {
@@ -48,10 +50,12 @@
 		"ayah": 5,
 		"verse": "It is You we worship and You we ask for help.",
 		"arabic": [
-			{"clause": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ"}
+			{"clause": "إِيَّاكَ نَعْبُدُ"},
+			{"clause": "وَإِيَّاكَ نَسْتَعِينُ"}
 		],
 		"english": [
-			{"clause": "It is You we worship and You we ask for help."}
+			{"clause": "It is You we worship"},
+			{"clause": "and You we ask for help."}
 		]
 	},
 	"6": {
@@ -71,11 +75,13 @@
 		"verse": "The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray.",
 		"arabic": [
 			{"clause": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ"},
-			{"clause": "غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ"}
+			{"clause": "غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ"},
+			{"clause": "عَلَيْهِمْ وَلَا الضَّالِّينَ"}
 		],
 		"english": [
 			{"clause": "The path of those upon whom You have bestowed favor"},
-			{"clause": "not of those who have evoked [Your] anger or of those who are astray."}
+			{"clause": "not of those who have evoked [Your] anger"},
+			{"clause": "or of those who are astray."}
 		]
 	}
 }
