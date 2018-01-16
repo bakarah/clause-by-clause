@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font: 14px/1.4 -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+  text-rendering: geometricPrecision;
+}
+.verse {
+    text-align: center;
+    background-color: #efefef;
+    color: #000;
+    font-weight: bold;
+}
+tr.clause td {
+    width: 50%;
+}
+td.ar {
+    direction: rtl;
+    font-size: 1.8em;
+}
+table {
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    margin: 1em;
+}
+tr.clause td {
+    width: 50%;
+    border: 1px solid #ccc;
+    padding: 5px 15px 10px;
+}
+.verse td {
+    padding: 0.3em;
+    font-size: 1.5em;
+}
+h1 {
+    text-align: center;
+    margin-top: 1em;
+}
