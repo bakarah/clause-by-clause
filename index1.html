@@ -26,8 +26,8 @@ console.log(json_data[1]["chapter"]);
 var table_obj = $('table');
 
 $.each(json_data, function(index, item){
-  var table_row = $('<tr>', {class: 'verse', colspan: "2"});
-  var table_cell = $('<td>', {html: item["verse-number"]});
+  var table_row = $('<tr>', {class: 'verse'});
+  var table_cell = $('<td>', {colspan: "2", html: item["verse-number"]});
   table_row.append(table_cell);
   table_obj.append(table_row);
 
