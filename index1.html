@@ -22,14 +22,14 @@ $.each(json_data, function(index, item){
   table_obj.append(table_row);
 
   for (i = 0; i < item["clauses-arabic"].length; i++) {
-  	console.log(item["clauses-arabic"][i]["clause"]);
   	var table_row = $('<tr>', {class: 'clause', colspan: "2"});
 
-	var table_cell = $('<td>', {class: 'ar', html: item["clauses-arabic"][i]["clause"]});
+	console.log(item["clauses-english"][i]["clause"]);
+	var table_cell = $('<td>', {class: 'en', html: item["clauses-english"][i]["clause"]});
 	table_row.append(table_cell);
 
-  	console.log(item["clauses-english"][i]["clause"]);
-	var table_cell = $('<td>', {class: 'en', html: item["clauses-english"][i]["clause"]});
+	console.log(item["clauses-arabic"][i]["clause"]);
+	var table_cell = $('<td>', {class: 'ar', html: item["clauses-arabic"][i]["clause"]});
 	table_row.append(table_cell);
 
 	table_obj.append(table_row);
