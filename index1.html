@@ -8,12 +8,8 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script>
-$.getJSON('https://raw.githubusercontent.com/javanigus/clause-by-clause/master/chapter%201', function(json_data){
-  
-console.log(json_data);
+$.getJSON('https://javanigus.github.io/clause-by-clause/chapter1.json', function(json_data){
 
-console.log(json_data[1]["chapter"]);
-  
 var table_obj = $('table');
 
 $.each(json_data, function(index, item){
@@ -25,22 +21,17 @@ $.each(json_data, function(index, item){
   for (i = 0; i < item["clauses-arabic"].length; i++) {
   	var table_row = $('<tr>', {class: 'clause'});
 
-	console.log(item["clauses-english"][i]["clause"]);
 	var table_cell = $('<td>', {class: 'en', html: item["clauses-english"][i]["clause"]});
 	table_row.append(table_cell);
 
-	console.log(item["clauses-arabic"][i]["clause"]);
 	var table_cell = $('<td>', {class: 'ar', html: item["clauses-arabic"][i]["clause"]});
 	table_row.append(table_cell);
 
 	table_obj.append(table_row);
   }
-  console.log(item);
-  console.log(item["verse-number"]);
 })
   
 })
-
 
 </script>
 </body>
