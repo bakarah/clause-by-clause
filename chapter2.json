@@ -256,6 +256,9 @@
       },
       {
         "clause": ""
+      },
+      {
+        "clause": ""
       }
     ],
     "clauses-english": [
@@ -263,7 +266,10 @@
         "clause": "In their hearts is disease,"
       },
       {
-        "clause": "so Allah has increased their disease; and for them is a painful punishment because they [habitually] used to lie."
+        "clause": "so Allah has increased their disease;"
+      },
+      {
+        "clause": "and for them is a painful punishment because they [habitually] used to lie."
       }
     ]
   },
@@ -413,6 +419,12 @@
       },
       {
         "clause": ""
+      },
+      {
+        "clause": ""
+      },
+      {
+        "clause": ""
       }
     ],
     "clauses-english": [
@@ -423,7 +435,10 @@
         "clause": "they say,"
       },
       {
-        "clause": "\"We believe\"; but when they are alone with their evil ones,"
+        "clause": "\"We believe\";"
+      },
+      {
+        "clause": "but when they are alone with their evil ones,"
       },
       {
         "clause": "they say,"
@@ -432,7 +447,10 @@
         "clause": "\"Indeed,"
       },
       {
-        "clause": "we are with you; we were only mockers."
+        "clause": "we are with you;"
+      },
+      {
+        "clause": "we were only mockers."
       },
       {
         "clause": "\""
@@ -602,6 +620,9 @@
       },
       {
         "clause": ""
+      },
+      {
+        "clause": ""
       }
     ],
     "clauses-english": [
@@ -612,7 +633,10 @@
         "clause": "Every time it lights [the way] for them,"
       },
       {
-        "clause": "they walk therein; but when darkness comes over them,"
+        "clause": "they walk therein;"
+      },
+      {
+        "clause": "but when darkness comes over them,"
       },
       {
         "clause": "they stand [still]."
@@ -913,11 +937,17 @@
       },
       {
         "clause": ""
+      },
+      {
+        "clause": ""
       }
     ],
     "clauses-english": [
       {
-        "clause": "How can you disbelieve in Allah when you were lifeless and He brought you to life; then He will cause you to die,"
+        "clause": "How can you disbelieve in Allah when you were lifeless and He brought you to life;"
+      },
+      {
+        "clause": "then He will cause you to die,"
       },
       {
         "clause": "then He will bring you [back] to life,"
@@ -1118,6 +1148,9 @@
       },
       {
         "clause": ""
+      },
+      {
+        "clause": ""
       }
     ],
     "clauses-english": [
@@ -1125,7 +1158,10 @@
         "clause": "They said,"
       },
       {
-        "clause": "\"Exalted are You; we have no knowledge except what You have taught us."
+        "clause": "\"Exalted are You;"
+      },
+      {
+        "clause": "we have no knowledge except what You have taught us."
       },
       {
         "clause": "Indeed,"
@@ -1216,6 +1252,9 @@
       },
       {
         "clause": ""
+      },
+      {
+        "clause": ""
       }
     ],
     "clauses-english": [
@@ -1223,7 +1262,10 @@
         "clause": "And [mention] when We said to the angels,"
       },
       {
-        "clause": "\"Prostrate before Adam\"; so they prostrated,"
+        "clause": "\"Prostrate before Adam\";"
+      },
+      {
+        "clause": "so they prostrated,"
       },
       {
         "clause": "except for Iblees."
@@ -1449,6 +1491,9 @@
       },
       {
         "clause": ""
+      },
+      {
+        "clause": ""
       }
     ],
     "clauses-english": [
@@ -1456,7 +1501,10 @@
         "clause": "And those who disbelieve and deny Our signs -"
       },
       {
-        "clause": "those will be companions of the Fire; they will abide therein eternally."
+        "clause": "those will be companions of the Fire;"
+      },
+      {
+        "clause": "they will abide therein eternally."
       },
       {
         "clause": "\""
@@ -1818,6 +1866,9 @@
       },
       {
         "clause": ""
+      },
+      {
+        "clause": ""
       }
     ],
     "clauses-english": [
@@ -1837,7 +1888,10 @@
         "clause": "That is best for [all of] you in the sight of your Creator."
       },
       {
-        "clause": "\" Then He accepted your repentance; indeed,"
+        "clause": "\" Then He accepted your repentance;"
+      },
+      {
+        "clause": "indeed,"
       },
       {
         "clause": "He is the Accepting of repentance,"
@@ -1861,6 +1915,9 @@
       },
       {
         "clause": ""
+      },
+      {
+        "clause": ""
       }
     ],
     "clauses-english": [
@@ -1871,7 +1928,10 @@
         "clause": "\"O Moses,"
       },
       {
-        "clause": "we will never believe you until we see Allah outright\"; so the thunderbolt took you while you were looking on."
+        "clause": "we will never believe you until we see Allah outright\";"
+      },
+      {
+        "clause": "so the thunderbolt took you while you were looking on."
       }
     ]
   },
@@ -2776,6 +2836,9 @@
       },
       {
         "clause": ""
+      },
+      {
+        "clause": ""
       }
     ],
     "clauses-english": [
@@ -2786,7 +2849,10 @@
         "clause": "they say,"
       },
       {
-        "clause": "\"We have believed\"; but when they are alone with one another,"
+        "clause": "\"We have believed\";"
+      },
+      {
+        "clause": "but when they are alone with one another,"
       },
       {
         "clause": "they say,"
@@ -2949,6 +3015,9 @@
       },
       {
         "clause": ""
+      },
+      {
+        "clause": ""
       }
     ],
     "clauses-english": [
@@ -2959,7 +3028,10 @@
         "clause": "whoever earns evil and his sin has encompassed him -"
       },
       {
-        "clause": "those are the companions of the Fire; they will abide therein eternally."
+        "clause": "those are the companions of the Fire;"
+      },
+      {
+        "clause": "they will abide therein eternally."
       }
     ]
   },
@@ -2974,6 +3046,9 @@
       },
       {
         "clause": ""
+      },
+      {
+        "clause": ""
       }
     ],
     "clauses-english": [
@@ -2981,7 +3056,10 @@
         "clause": "But they who believe and do righteous deeds -"
       },
       {
-        "clause": "those are the companions of Paradise; they will abide therein eternally."
+        "clause": "those are the companions of Paradise;"
+      },
+      {
+        "clause": "they will abide therein eternally."
       }
     ]
   },
@@ -2991,6 +3069,9 @@
     "verse-arabic": "وَإِذْ أَخَذْنَا مِيثَاقَ بَنِي إِسْرَائِيلَ لَا تَعْبُدُونَ إِلَّا اللَّهَ وَبِالْوَالِدَيْنِ إِحْسَانًا وَذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَقُولُوا لِلنَّاسِ حُسْنًا وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ ثُمَّ تَوَلَّيْتُمْ إِلَّا قَلِيلًا مِّنكُمْ وَأَنتُم مُّعْرِضُونَ",
     "verse-english": "And [recall] when We took the covenant from the Children of Israel, [enjoining upon them], \"Do not worship except Allah; and to parents do good and to relatives, orphans, and the needy. And speak to people good [words] and establish prayer and give zakah.\" Then you turned away, except a few of you, and you were refusing.",
     "clauses-arabic": [
+      {
+        "clause": ""
+      },
       {
         "clause": ""
       },
@@ -3027,7 +3108,10 @@
         "clause": "[enjoining upon them],"
       },
       {
-        "clause": "\"Do not worship except Allah; and to parents do good and to relatives,"
+        "clause": "\"Do not worship except Allah;"
+      },
+      {
+        "clause": "and to parents do good and to relatives,"
       },
       {
         "clause": "orphans,"
@@ -3115,6 +3199,9 @@
       },
       {
         "clause": ""
+      },
+      {
+        "clause": ""
       }
     ],
     "clauses-english": [
@@ -3140,7 +3227,10 @@
         "clause": "So do you believe in part of the Scripture and disbelieve in part?"
       },
       {
-        "clause": "Then what is the recompense for those who do that among you except disgrace in worldly life; and on the Day of Resurrection they will be sent back to the severest of punishment."
+        "clause": "Then what is the recompense for those who do that among you except disgrace in worldly life;"
+      },
+      {
+        "clause": "and on the Day of Resurrection they will be sent back to the severest of punishment."
       },
       {
         "clause": "And Allah is not unaware of what you do."
@@ -3302,6 +3392,9 @@
       },
       {
         "clause": ""
+      },
+      {
+        "clause": ""
       }
     ],
     "clauses-english": [
@@ -3315,7 +3408,10 @@
         "clause": "but [then] when there came to them that which they recognized,"
       },
       {
-        "clause": "they disbelieved in it; so the curse of Allah will be upon the disbelievers."
+        "clause": "they disbelieved in it;"
+      },
+      {
+        "clause": "so the curse of Allah will be upon the disbelievers."
       }
     ]
   },
@@ -4809,6 +4905,9 @@
       },
       {
         "clause": ""
+      },
+      {
+        "clause": ""
       }
     ],
     "clauses-english": [
@@ -4831,7 +4930,10 @@
         "clause": "\"And whoever disbelieves -"
       },
       {
-        "clause": "I will grant him enjoyment for a little; then I will force him to the punishment of the Fire,"
+        "clause": "I will grant him enjoyment for a little;"
+      },
+      {
+        "clause": "then I will force him to the punishment of the Fire,"
       },
       {
         "clause": "and wretched is the destination."
@@ -5324,6 +5426,9 @@
       },
       {
         "clause": ""
+      },
+      {
+        "clause": ""
       }
     ],
     "clauses-english": [
@@ -5331,7 +5436,10 @@
         "clause": "So if they believe in the same as you believe in,"
       },
       {
-        "clause": "then they have been [rightly] guided; but if they turn away,"
+        "clause": "then they have been [rightly] guided;"
+      },
+      {
+        "clause": "but if they turn away,"
       },
       {
         "clause": "they are only in dissension,"
@@ -5934,6 +6042,9 @@
       },
       {
         "clause": ""
+      },
+      {
+        "clause": ""
       }
     ],
     "clauses-english": [
@@ -5956,7 +6067,10 @@
         "clause": "turn your faces toward it in order that the people will not have any argument against you,"
       },
       {
-        "clause": "except for those of them who commit wrong; so fear them not but fear Me."
+        "clause": "except for those of them who commit wrong;"
+      },
+      {
+        "clause": "so fear them not but fear Me."
       },
       {
         "clause": "And [it is] so I may complete My favor upon you and that you may be guided."
@@ -5990,11 +6104,17 @@
       },
       {
         "clause": ""
+      },
+      {
+        "clause": ""
       }
     ],
     "clauses-english": [
       {
-        "clause": "So remember Me; I will remember you."
+        "clause": "So remember Me;"
+      },
+      {
+        "clause": "I will remember you."
       },
       {
         "clause": "And be grateful to Me and do not deny Me."
@@ -6921,6 +7041,15 @@
       },
       {
         "clause": ""
+      },
+      {
+        "clause": ""
+      },
+      {
+        "clause": ""
+      },
+      {
+        "clause": ""
       }
     ],
     "clauses-english": [
@@ -6961,7 +7090,16 @@
         "clause": "those who ask [for help],"
       },
       {
-        "clause": "and for freeing slaves; [and who] establishes prayer and gives zakah; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle."
+        "clause": "and for freeing slaves;"
+      },
+      {
+        "clause": "[and who] establishes prayer and gives zakah;"
+      },
+      {
+        "clause": "[those who] fulfill their promise when they promise;"
+      },
+      {
+        "clause": "and [those who] are patient in poverty and hardship and during battle."
       },
       {
         "clause": "Those are the ones who have been true,"
@@ -7274,6 +7412,12 @@
       },
       {
         "clause": ""
+      },
+      {
+        "clause": ""
+      },
+      {
+        "clause": ""
       }
     ],
     "clauses-english": [
@@ -7287,13 +7431,19 @@
         "clause": "So whoever sights [the new moon of] the month,"
       },
       {
-        "clause": "let him fast it; and whoever is ill or on a journey -"
+        "clause": "let him fast it;"
+      },
+      {
+        "clause": "and whoever is ill or on a journey -"
       },
       {
         "clause": "then an equal number of other days."
       },
       {
-        "clause": "Allah intends for you ease and does not intend for you hardship and [wants] for you to complete the period and to glorify Allah for that [to] which He has guided you; and perhaps you will be grateful."
+        "clause": "Allah intends for you ease and does not intend for you hardship and [wants] for you to complete the period and to glorify Allah for that [to] which He has guided you;"
+      },
+      {
+        "clause": "and perhaps you will be grateful."
       }
     ]
   },
@@ -7707,6 +7857,9 @@
       },
       {
         "clause": ""
+      },
+      {
+        "clause": ""
       }
     ],
     "clauses-english": [
@@ -7714,7 +7867,10 @@
         "clause": "And spend in the way of Allah and do not throw [yourselves] with your [own] hands into destruction [by refraining]."
       },
       {
-        "clause": "And do good; indeed,"
+        "clause": "And do good;"
+      },
+      {
+        "clause": "indeed,"
       },
       {
         "clause": "Allah loves the doers of good."
@@ -8108,6 +8264,9 @@
       },
       {
         "clause": ""
+      },
+      {
+        "clause": ""
       }
     ],
     "clauses-english": [
@@ -8118,7 +8277,10 @@
         "clause": "Then whoever hastens [his departure] in two days -"
       },
       {
-        "clause": "there is no sin upon him; and whoever delays [until the third] -"
+        "clause": "there is no sin upon him;"
+      },
+      {
+        "clause": "and whoever delays [until the third] -"
       },
       {
         "clause": "there is no sin upon him -"
@@ -8427,11 +8589,17 @@
       },
       {
         "clause": ""
+      },
+      {
+        "clause": ""
       }
     ],
     "clauses-english": [
       {
-        "clause": "Mankind was [of] one religion [before their deviation]; then Allah sent the prophets as bringers of good tidings and warners and sent down with them the Scripture in truth to judge between the people concerning that in which they differed."
+        "clause": "Mankind was [of] one religion [before their deviation];"
+      },
+      {
+        "clause": "then Allah sent the prophets as bringers of good tidings and warners and sent down with them the Scripture in truth to judge between the people concerning that in which they differed."
       },
       {
         "clause": "And none differed over the Scripture except those who were given it -"
@@ -8574,6 +8742,9 @@
       },
       {
         "clause": ""
+      },
+      {
+        "clause": ""
       }
     ],
     "clauses-english": [
@@ -8581,7 +8752,10 @@
         "clause": "Fighting has been enjoined upon you while it is hateful to you."
       },
       {
-        "clause": "But perhaps you hate a thing and it is good for you; and perhaps you love a thing and it is bad for you."
+        "clause": "But perhaps you hate a thing and it is good for you;"
+      },
+      {
+        "clause": "and perhaps you love a thing and it is bad for you."
       },
       {
         "clause": "And Allah Knows,"
@@ -9858,6 +10032,9 @@
       },
       {
         "clause": ""
+      },
+      {
+        "clause": ""
       }
     ],
     "clauses-english": [
@@ -9871,7 +10048,10 @@
         "clause": "Allah said to them,"
       },
       {
-        "clause": "\"Die\"; then He restored them to life."
+        "clause": "\"Die\";"
+      },
+      {
+        "clause": "then He restored them to life."
       },
       {
         "clause": "And Allah is full of bounty to the people,"
@@ -10652,6 +10832,9 @@
       },
       {
         "clause": ""
+      },
+      {
+        "clause": ""
       }
     ],
     "clauses-english": [
@@ -10671,7 +10854,10 @@
         "clause": "They take them out of the light into darknesses."
       },
       {
-        "clause": "Those are the companions of the Fire; they will abide eternally therein."
+        "clause": "Those are the companions of the Fire;"
+      },
+      {
+        "clause": "they will abide eternally therein."
       }
     ]
   },
@@ -10813,6 +10999,15 @@
       },
       {
         "clause": ""
+      },
+      {
+        "clause": ""
+      },
+      {
+        "clause": ""
+      },
+      {
+        "clause": ""
       }
     ],
     "clauses-english": [
@@ -10826,7 +11021,10 @@
         "clause": "\"How will Allah bring this to life after its death?"
       },
       {
-        "clause": "\" So Allah caused him to die for a hundred years; then He revived him."
+        "clause": "\" So Allah caused him to die for a hundred years;"
+      },
+      {
+        "clause": "then He revived him."
       },
       {
         "clause": "He said,"
@@ -10850,10 +11048,16 @@
         "clause": "you have remained one hundred years."
       },
       {
-        "clause": "Look at your food and your drink; it has not changed with time."
+        "clause": "Look at your food and your drink;"
       },
       {
-        "clause": "And look at your donkey; and We will make you a sign for the people."
+        "clause": "it has not changed with time."
+      },
+      {
+        "clause": "And look at your donkey;"
+      },
+      {
+        "clause": "and We will make you a sign for the people."
       },
       {
         "clause": "And look at the bones [of this donkey] -"
@@ -10881,6 +11085,9 @@
     "verse-arabic": "وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ أَرِنِي كَيْفَ تُحْيِي الْمَوْتَىٰ ۖ قَالَ أَوَلَمْ تُؤْمِن ۖ قَالَ بَلَىٰ وَلَٰكِن لِّيَطْمَئِنَّ قَلْبِي ۖ قَالَ فَخُذْ أَرْبَعَةً مِّنَ الطَّيْرِ فَصُرْهُنَّ إِلَيْكَ ثُمَّ اجْعَلْ عَلَىٰ كُلِّ جَبَلٍ مِّنْهُنَّ جُزْءًا ثُمَّ ادْعُهُنَّ يَأْتِينَكَ سَعْيًا ۚ وَاعْلَمْ أَنَّ اللَّهَ عَزِيزٌ حَكِيمٌ",
     "verse-english": "And [mention] when Abraham said, \"My Lord, show me how You give life to the dead.\" [Allah] said, \"Have you not believed?\" He said, \"Yes, but [I ask] only that my heart may be satisfied.\" [Allah] said, \"Take four birds and commit them to yourself. Then [after slaughtering them] put on each hill a portion of them; then call them - they will come [flying] to you in haste. And know that Allah is Exalted in Might and Wise.\"",
     "clauses-arabic": [
+      {
+        "clause": ""
+      },
       {
         "clause": ""
       },
@@ -10956,7 +11163,10 @@
         "clause": "\"Take four birds and commit them to yourself."
       },
       {
-        "clause": "Then [after slaughtering them] put on each hill a portion of them; then call them -"
+        "clause": "Then [after slaughtering them] put on each hill a portion of them;"
+      },
+      {
+        "clause": "then call them -"
       },
       {
         "clause": "they will come [flying] to you in haste."
@@ -10986,11 +11196,17 @@
       },
       {
         "clause": ""
+      },
+      {
+        "clause": ""
       }
     ],
     "clauses-english": [
       {
-        "clause": "The example of those who spend their wealth in the way of Allah is like a seed [of grain] which grows seven spikes; in each spike is a hundred grains."
+        "clause": "The example of those who spend their wealth in the way of Allah is like a seed [of grain] which grows seven spikes;"
+      },
+      {
+        "clause": "in each spike is a hundred grains."
       },
       {
         "clause": "And Allah multiplies [His reward] for whom He wills."
@@ -11341,6 +11557,9 @@
       },
       {
         "clause": ""
+      },
+      {
+        "clause": ""
       }
     ],
     "clauses-english": [
@@ -11348,7 +11567,10 @@
         "clause": "If you disclose your charitable expenditures,"
       },
       {
-        "clause": "they are good; but if you conceal them and give them to the poor,"
+        "clause": "they are good;"
+      },
+      {
+        "clause": "but if you conceal them and give them to the poor,"
       },
       {
         "clause": "it is better for you,"
@@ -11564,6 +11786,9 @@
       },
       {
         "clause": ""
+      },
+      {
+        "clause": ""
       }
     ],
     "clauses-english": [
@@ -11589,7 +11814,10 @@
         "clause": "But whoever returns to [dealing in interest or usury] -"
       },
       {
-        "clause": "those are the companions of the Fire; they will abide eternally therein."
+        "clause": "those are the companions of the Fire;"
+      },
+      {
+        "clause": "they will abide eternally therein."
       }
     ]
   },
@@ -12211,6 +12439,12 @@
       },
       {
         "clause": ""
+      },
+      {
+        "clause": ""
+      },
+      {
+        "clause": ""
       }
     ],
     "clauses-english": [
@@ -12242,7 +12476,13 @@
         "clause": "and burden us not with that which we have no ability to bear."
       },
       {
-        "clause": "And pardon us; and forgive us; and have mercy upon us."
+        "clause": "And pardon us;"
+      },
+      {
+        "clause": "and forgive us;"
+      },
+      {
+        "clause": "and have mercy upon us."
       },
       {
         "clause": "You are our protector,"
