@@ -15,6 +15,7 @@ tr.clause td {
 td.ar {
     direction: rtl;
     font-size: 1.8em;
+    font-family: 'Droid Arabic Naskh',serif!important;
 }
 table {
     border: 1px solid #ccc;
