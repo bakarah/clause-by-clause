@@ -34,18 +34,18 @@
     "verse-english": "[All] praise is [due] to Allah, Lord of the worlds -",
     "clauses-arabic": [
       {
-        "clause": ""
+        "clause": "الْحَمْدُ لِلَّهِ"
       },
       {
-        "clause": ""
+        "clause": "رَبِّ الْعَالَمِينَ"
       }
     ],
     "clauses-english": [
       {
-        "clause": "[All] praise is [due] to Allah,"
+        "clause": "Praise is to Allah,"
       },
       {
-        "clause": "Lord of the worlds -"
+        "clause": "Lord of the worlds"
       }
     ]
   },
@@ -56,10 +56,10 @@
     "verse-english": "The Entirely Merciful, the Especially Merciful,",
     "clauses-arabic": [
       {
-        "clause": ""
+        "clause": "الرَّحْمَٰنِ"
       },
       {
-        "clause": ""
+        "clause": "الرَّحِيمِ"
       }
     ],
     "clauses-english": [
@@ -78,7 +78,7 @@
     "verse-english": "Sovereign of the Day of Recompense.",
     "clauses-arabic": [
       {
-        "clause": ""
+        "clause": "مَالِكِ يَوْمِ الدِّينِ"
       }
     ],
     "clauses-english": [
@@ -94,12 +94,18 @@
     "verse-english": "It is You we worship and You we ask for help.",
     "clauses-arabic": [
       {
-        "clause": ""
+        "clause": "إِيَّاكَ نَعْبُدُ"
+      },
+      {
+        "clause": "وَإِيَّاكَ نَسْتَعِينُ"
       }
     ],
     "clauses-english": [
       {
-        "clause": "It is You we worship and You we ask for help."
+        "clause": "It is You we worship"
+      },
+      {
+        "clause": "and You we ask for help."
       }
     ]
   },
@@ -110,7 +116,7 @@
     "verse-english": "Guide us to the straight path -",
     "clauses-arabic": [
       {
-        "clause": ""
+        "clause": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ"
       }
     ],
     "clauses-english": [
@@ -126,10 +132,13 @@
     "verse-english": "The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray.",
     "clauses-arabic": [
       {
-        "clause": ""
+        "clause": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ"
       },
       {
-        "clause": ""
+        "clause": "غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ"
+      },
+      {
+        "clause": "وَلَا الضَّالِّينَ"
       }
     ],
     "clauses-english": [
@@ -137,7 +146,10 @@
         "clause": "The path of those upon whom You have bestowed favor,"
       },
       {
-        "clause": "not of those who have evoked [Your] anger or of those who are astray."
+        "clause": "not of those who have evoked [Your] anger"
+      },
+      {
+        "clause": "or of those who are astray."
       }
     ]
   }
