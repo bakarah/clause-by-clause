@@ -21,7 +21,7 @@ table {
     border: 1px solid #ccc;
     border-collapse: collapse;
     margin: 1em;
-    margin: 0 auto;
+    margin: 0 auto 3em;
 }
 tr.clause td {
     width: 50%;
