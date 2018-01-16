@@ -1,0 +1,38 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="https://javanigus.github.io/clause-by-clause/styles.css">
+</head>
+<body>
+<h1>Chapter 1: Al-Faatihah (The Opening)</h1>
+<table></table>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script>
+$.getJSON('https://javanigus.github.io/clause-by-clause/chapter2.json', function(json_data){
+
+var table_obj = $('table');
+
+$.each(json_data, function(index, item){
+  var table_row = $('<tr>', {class: 'verse'});
+  var table_cell = $('<td>', {colspan: "2", html: item["verse-number"]});
+  table_row.append(table_cell);
+  table_obj.append(table_row);
+
+  for (i = 0; i < item["clauses-arabic"].length; i++) {
+  	var table_row = $('<tr>', {class: 'clause'});
+
+	var table_cell = $('<td>', {class: 'en', html: item["clauses-english"][i]["clause"]});
+	table_row.append(table_cell);
+
+	var table_cell = $('<td>', {class: 'ar', html: item["clauses-arabic"][i]["clause"]});
+	table_row.append(table_cell);
+
+	table_obj.append(table_row);
+  }
+})
+  
+})
+
+</script>
+</body>
+</html>
