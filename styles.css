@@ -11,6 +11,7 @@ body {
 }
 tr.clause td {
     width: 50%;
+    vertical-align: baseline;
 }
 td.ar {
     direction: rtl;
