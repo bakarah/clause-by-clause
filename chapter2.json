@@ -358,60 +358,36 @@
     "verse-english": "And when they meet those who believe, they say, \"We believe\"; but when they are alone with their evil ones, they say, \"Indeed, we are with you; we were only mockers.\"",
     "clauses-arabic": [
       {
-        "clause": ""
+        "clause": "وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا"
       },
       {
-        "clause": ""
+        "clause": "آمَنَّا"
       },
       {
-        "clause": ""
+        "clause": "وَإِذَا خَلَوْا إِلَىٰ شَيَاطِينِهِمْ قَالُوا"
       },
       {
-        "clause": ""
+        "clause": "إِنَّا مَعَكُمْ"
       },
       {
-        "clause": ""
-      },
-      {
-        "clause": ""
-      },
-      {
-        "clause": ""
-      },
-      {
-        "clause": ""
-      },
-      {
-        "clause": ""
+        "clause": "إِنَّمَا نَحْنُ مُسْتَهْزِئُونَ"
       }
     ],
     "clauses-english": [
       {
-        "clause": "And when they meet those who believe,"
-      },
-      {
-        "clause": "they say,"
+        "clause": "And when they meet those who believe, they say,"
       },
       {
         "clause": "\"We believe\";"
       },
       {
-        "clause": "but when they are alone with their evil ones,"
+        "clause": "but when they are alone with their evil ones, they say,"
       },
       {
-        "clause": "they say,"
+        "clause": "\"Indeed, we are with you;"
       },
       {
-        "clause": "\"Indeed,"
-      },
-      {
-        "clause": "we are with you;"
-      },
-      {
-        "clause": "we were only mockers."
-      },
-      {
-        "clause": "\""
+        "clause": "indeed we were only mockers.\""
       }
     ]
   },
