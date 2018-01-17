@@ -47,3 +47,9 @@ small {
     text-align: center;
     margin-bottom: 2em;
 }
+.full-verse td {
+    padding: 0.3em 0.6em;
+    font-family: 'Droid Arabic Naskh',serif!important;
+    direction: rtl;
+    font-size: 1.8em;
+}
