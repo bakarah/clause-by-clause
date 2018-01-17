@@ -2,28 +2,16 @@
   "8": {
     "chapter": 2,
     "verse-number": 1,
-    "verse-arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الم",
+    "verse-arabic": "الم",
     "verse-english": "Alif, Lam, Meem.",
     "clauses-arabic": [
       {
-        "clause": ""
-      },
-      {
-        "clause": ""
-      },
-      {
-        "clause": ""
+        "clause": "الم"
       }
     ],
     "clauses-english": [
       {
-        "clause": "Alif,"
-      },
-      {
-        "clause": "Lam,"
-      },
-      {
-        "clause": "Meem."
+        "clause": "Alif, Lam, Meem."
       }
     ]
   },
@@ -34,10 +22,10 @@
     "verse-english": "This is the Book about which there is no doubt, a guidance for those conscious of God -",
     "clauses-arabic": [
       {
-        "clause": ""
+        "clause": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ"
       },
       {
-        "clause": ""
+        "clause": "هُدًى لِّلْمُتَّقِينَ"
       }
     ],
     "clauses-english": [
@@ -56,13 +44,13 @@
     "verse-english": "Who believe in the unseen, establish prayer, and spend out of what We have provided for them,",
     "clauses-arabic": [
       {
-        "clause": ""
+        "clause": "الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ"
       },
       {
-        "clause": ""
+        "clause": "وَيُقِيمُونَ الصَّلَاةَ"
       },
       {
-        "clause": ""
+        "clause": "وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ"
       }
     ],
     "clauses-english": [
@@ -84,24 +72,18 @@
     "verse-english": "And who believe in what has been revealed to you, [O Muhammad], and what was revealed before you, and of the Hereafter they are certain [in faith].",
     "clauses-arabic": [
       {
-        "clause": ""
+        "clause": "وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ"
       },
       {
-        "clause": ""
+        "clause": "وَمَا أُنزِلَ مِن قَبْلِكَ"
       },
       {
-        "clause": ""
-      },
-      {
-        "clause": ""
+        "clause": "وَبِالْآخِرَةِ هُمْ يُوقِنُونَ"
       }
     ],
     "clauses-english": [
       {
-        "clause": "And who believe in what has been revealed to you,"
-      },
-      {
-        "clause": "[O Muhammad],"
+        "clause": "And who believe in what has been revealed to you, [O Muhammad],"
       },
       {
         "clause": "and what was revealed before you,"
@@ -118,10 +100,10 @@
     "verse-english": "Those are upon [right] guidance from their Lord, and it is those who are the successful.",
     "clauses-arabic": [
       {
-        "clause": ""
+        "clause": "أُولَٰئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ"
       },
       {
-        "clause": ""
+        "clause": "وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ"
       }
     ],
     "clauses-english": [
@@ -140,27 +122,21 @@
     "verse-english": "Indeed, those who disbelieve - it is all the same for them whether you warn them or do not warn them - they will not believe.",
     "clauses-arabic": [
       {
-        "clause": ""
+        "clause": "إِنَّ الَّذِينَ كَفَرُوا"
       },
       {
-        "clause": ""
+        "clause": "سَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ"
       },
       {
-        "clause": ""
-      },
-      {
-        "clause": ""
+        "clause": "لَا يُؤْمِنُونَ"
       }
     ],
     "clauses-english": [
       {
-        "clause": "Indeed,"
+        "clause": "Indeed, those who disbelieve,"
       },
       {
-        "clause": "those who disbelieve -"
-      },
-      {
-        "clause": "it is all the same for them whether you warn them or do not warn them -"
+        "clause": "it is all the same for them whether you warn them or do not warn them,"
       },
       {
         "clause": "they will not believe."
@@ -174,13 +150,13 @@
     "verse-english": "God has set a seal upon their hearts and upon their hearing, and over their vision is a veil. And for them is a great punishment.",
     "clauses-arabic": [
       {
-        "clause": ""
+        "clause": "خَتَمَ اللَّهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ"
       },
       {
-        "clause": ""
+        "clause": "عَلَىٰ أَبْصَارِهِمْ غِشَاوَةٌ"
       },
       {
-        "clause": ""
+        "clause": "وَلَهُمْ عَذَابٌ عَظِيمٌ"
       }
     ],
     "clauses-english": [
@@ -202,13 +178,13 @@
     "verse-english": "And of the people are some who say, \"We believe in God and the Last Day,\" but they are not believers.",
     "clauses-arabic": [
       {
-        "clause": ""
+        "clause": "وَمِنَ النَّاسِ مَن يَقُولُ"
       },
       {
-        "clause": ""
+        "clause": "آمَنَّا بِاللَّهِ وَبِالْيَوْمِ الْآخِرِ"
       },
       {
-        "clause": ""
+        "clause": "وَمَا هُم بِمُؤْمِنِينَ"
       }
     ],
     "clauses-english": [
@@ -216,10 +192,10 @@
         "clause": "And of the people are some who say,"
       },
       {
-        "clause": "\"We believe in God and the Last Day,"
+        "clause": "\"We believe in God and the Last Day\","
       },
       {
-        "clause": "\" but they are not believers."
+        "clause": "but they are not believers."
       }
     ]
   },
@@ -230,10 +206,10 @@
     "verse-english": "They [think to] deceive God and those who believe, but they deceive not except themselves and perceive [it] not.",
     "clauses-arabic": [
       {
-        "clause": ""
+        "clause": "يُخَادِعُونَ اللَّهَ وَالَّذِينَ آمَنُوا"
       },
       {
-        "clause": ""
+        "clause": "وَمَا يَخْدَعُونَ إِلَّا أَنفُسَهُمْ وَمَا يَشْعُرُونَ"
       }
     ],
     "clauses-english": [
@@ -252,13 +228,13 @@
     "verse-english": "In their hearts is disease, so God has increased their disease; and for them is a painful punishment because they [habitually] used to lie.",
     "clauses-arabic": [
       {
-        "clause": ""
+        "clause": "فِي قُلُوبِهِم مَّرَضٌ"
       },
       {
-        "clause": ""
+        "clause": "فَزَادَهُمُ اللَّهُ مَرَضًا"
       },
       {
-        "clause": ""
+        "clause": "وَلَهُمْ عَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْذِبُونَ"
       }
     ],
     "clauses-english": [
@@ -266,7 +242,7 @@
         "clause": "In their hearts is disease,"
       },
       {
-        "clause": "so God has increased their disease;"
+        "clause": "so God has increased their disease,"
       },
       {
         "clause": "and for them is a painful punishment because they [habitually] used to lie."
@@ -280,19 +256,16 @@
     "verse-english": "And when it is said to them, \"Do not cause corruption on the earth,\" they say, \"We are but reformers.\"",
     "clauses-arabic": [
       {
-        "clause": ""
+        "clause": "وَإِذَا قِيلَ لَهُمْ"
       },
       {
-        "clause": ""
+        "clause": "لَا تُفْسِدُوا فِي الْأَرْضِ"
       },
       {
-        "clause": ""
+        "clause": "قَالُوا"
       },
       {
-        "clause": ""
-      },
-      {
-        "clause": ""
+        "clause": "إِنَّمَا نَحْنُ مُصْلِحُونَ"
       }
     ],
     "clauses-english": [
@@ -300,16 +273,13 @@
         "clause": "And when it is said to them,"
       },
       {
-        "clause": "\"Do not cause corruption on the earth,"
+        "clause": "\"Do not cause corruption on the earth\","
       },
       {
-        "clause": "\" they say,"
+        "clause": "they say,"
       },
       {
-        "clause": "\"We are but reformers."
-      },
-      {
-        "clause": "\""
+        "clause": "\"We are but reformers\"."
       }
     ]
   },
@@ -320,21 +290,15 @@
     "verse-english": "Unquestionably, it is they who are the corrupters, but they perceive [it] not.",
     "clauses-arabic": [
       {
-        "clause": ""
+        "clause": "أَلَا إِنَّهُمْ هُمُ الْمُفْسِدُونَ"
       },
       {
-        "clause": ""
-      },
-      {
-        "clause": ""
+        "clause": "وَلَٰكِن لَّا يَشْعُرُونَ"
       }
     ],
     "clauses-english": [
       {
-        "clause": "Unquestionably,"
-      },
-      {
-        "clause": "it is they who are the corrupters,"
+        "clause": "Unquestionably, it is they who are the corrupters,"
       },
       {
         "clause": "but they perceive [it] not."
@@ -348,25 +312,22 @@
     "verse-english": "And when it is said to them, \"Believe as the people have believed,\" they say, \"Should we believe as the foolish have believed?\" Unquestionably, it is they who are the foolish, but they know [it] not.",
     "clauses-arabic": [
       {
-        "clause": ""
+        "clause": "وَإِذَا قِيلَ لَهُمْ"
       },
       {
-        "clause": ""
+        "clause": "آمِنُوا كَمَا آمَنَ النَّاسُ"
       },
       {
-        "clause": ""
+        "clause": "قَالُوا"
       },
       {
-        "clause": ""
+        "clause": "أَنُؤْمِنُ كَمَا آمَنَ السُّفَهَاءُ"
       },
       {
-        "clause": ""
+        "clause": "أَلَا إِنَّهُمْ هُمُ السُّفَهَاءُ"
       },
       {
-        "clause": ""
-      },
-      {
-        "clause": ""
+        "clause": "وَلَٰكِن لَّا يَعْلَمُونَ"
       }
     ],
     "clauses-english": [
@@ -374,19 +335,16 @@
         "clause": "And when it is said to them,"
       },
       {
-        "clause": "\"Believe as the people have believed,"
+        "clause": "\"Believe as the people have believed\","
       },
       {
-        "clause": "\" they say,"
+        "clause": "they say,"
       },
       {
-        "clause": "\"Should we believe as the foolish have believed?"
+        "clause": "\"Should we believe as the foolish have believed?\""
       },
       {
-        "clause": "\" Unquestionably,"
-      },
-      {
-        "clause": "it is they who are the foolish,"
+        "clause": "Unquestionably, it is they who are the foolish,"
       },
       {
         "clause": "but they know [it] not."
