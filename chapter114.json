@@ -1,0 +1,110 @@
+{
+    "6231": {
+        "chapter": 114,
+        "verse-number": 1,
+        "verse-arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+        "verse-english": "Say, \"I seek refuge in the Lord of mankind,",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Say,"
+            },
+            {
+                "clause": "\"I seek refuge in the Lord of mankind,"
+            }
+        ]
+    },
+    "6232": {
+        "chapter": 114,
+        "verse-number": 2,
+        "verse-arabic": "مَلِكِ النَّاسِ",
+        "verse-english": "The Sovereign of mankind.",
+        "clauses-arabic": [
+            {
+                "clause": "مَلِكِ النَّاسِ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "The Sovereign of mankind."
+            }
+        ]
+    },
+    "6233": {
+        "chapter": 114,
+        "verse-number": 3,
+        "verse-arabic": "إِلَٰهِ النَّاسِ",
+        "verse-english": "The God of mankind,",
+        "clauses-arabic": [
+            {
+                "clause": "إِلَٰهِ النَّاسِ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "The God of mankind,"
+            }
+        ]
+    },
+    "6234": {
+        "chapter": 114,
+        "verse-number": 4,
+        "verse-arabic": "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+        "verse-english": "From the evil of the retreating whisperer -",
+        "clauses-arabic": [
+            {
+                "clause": "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "From the evil of the retreating whisperer -"
+            }
+        ]
+    },
+    "6235": {
+        "chapter": 114,
+        "verse-number": 5,
+        "verse-arabic": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+        "verse-english": "Who whispers [evil] into the breasts of mankind -",
+        "clauses-arabic": [
+            {
+                "clause": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Who whispers [evil] into the breasts of mankind -"
+            }
+        ]
+    },
+    "6236": {
+        "chapter": 114,
+        "verse-number": 6,
+        "verse-arabic": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+        "verse-english": "From among the jinn and mankind.\"",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "From among the jinn and mankind."
+            },
+            {
+                "clause": "\""
+            }
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "6177": {
+        "chapter": 103,
+        "verse-number": 1,
+        "verse-arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالْعَصْرِ",
+        "verse-english": "By time,",
+        "clauses-arabic": [
+            {
+                "clause": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالْعَصْرِ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "By time,"
+            }
+        ]
+    },
+    "6178": {
+        "chapter": 103,
+        "verse-number": 2,
+        "verse-arabic": "إِنَّ الْإِنسَانَ لَفِي خُسْرٍ",
+        "verse-english": "Indeed, mankind is in loss,",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Indeed,"
+            },
+            {
+                "clause": "mankind is in loss,"
+            }
+        ]
+    },
+    "6179": {
+        "chapter": 103,
+        "verse-number": 3,
+        "verse-arabic": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+        "verse-english": "Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience.",
+        "clauses-arabic": [
+            {
+                "clause": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience."
+            }
+        ]
+    }
+}

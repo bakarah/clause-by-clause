@@ -1,0 +1,62 @@
+{
+    "6214": {
+        "chapter": 110,
+        "verse-number": 1,
+        "verse-arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
+        "verse-english": "When the victory of Allah has come and the conquest,",
+        "clauses-arabic": [
+            {
+                "clause": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "When the victory of God has come and the conquest,"
+            }
+        ]
+    },
+    "6215": {
+        "chapter": 110,
+        "verse-number": 2,
+        "verse-arabic": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
+        "verse-english": "And you see the people entering into the religion of Allah in multitudes,",
+        "clauses-arabic": [
+            {
+                "clause": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And you see the people entering into the religion of God in multitudes,"
+            }
+        ]
+    },
+    "6216": {
+        "chapter": 110,
+        "verse-number": 3,
+        "verse-arabic": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا",
+        "verse-english": "Then exalt [Him] with praise of your Lord and ask forgiveness of Him. Indeed, He is ever Accepting of repentance.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Then exalt [Him] with praise of your Lord and ask forgiveness of Him."
+            },
+            {
+                "clause": "Indeed,"
+            },
+            {
+                "clause": "He is ever Accepting of repentance."
+            }
+        ]
+    }
+}

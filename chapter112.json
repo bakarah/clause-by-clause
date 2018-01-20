@@ -1,0 +1,90 @@
+{
+    "6222": {
+        "chapter": 112,
+        "verse-number": 1,
+        "verse-arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ قُلْ هُوَ اللَّهُ أَحَدٌ",
+        "verse-english": "Say, \"He is Allah, [who is] One,",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Say,"
+            },
+            {
+                "clause": "\"He is God,"
+            },
+            {
+                "clause": "[who is] One,"
+            }
+        ]
+    },
+    "6223": {
+        "chapter": 112,
+        "verse-number": 2,
+        "verse-arabic": "اللَّهُ الصَّمَدُ",
+        "verse-english": "Allah, the Eternal Refuge.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "God,"
+            },
+            {
+                "clause": "the Eternal Refuge."
+            }
+        ]
+    },
+    "6224": {
+        "chapter": 112,
+        "verse-number": 3,
+        "verse-arabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+        "verse-english": "He neither begets nor is born,",
+        "clauses-arabic": [
+            {
+                "clause": "لَمْ يَلِدْ وَلَمْ يُولَدْ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "He neither begets nor is born,"
+            }
+        ]
+    },
+    "6225": {
+        "chapter": 112,
+        "verse-number": 4,
+        "verse-arabic": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+        "verse-english": "Nor is there to Him any equivalent.\"",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Nor is there to Him any equivalent."
+            },
+            {
+                "clause": "\""
+            }
+        ]
+    }
+}

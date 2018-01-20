@@ -1,0 +1,80 @@
+{
+    "6205": {
+        "chapter": 108,
+        "verse-number": 1,
+        "verse-arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
+        "verse-english": "Indeed, We have granted you, [O Muhammad], al-Kawthar.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Indeed,"
+            },
+            {
+                "clause": "We have granted you,"
+            },
+            {
+                "clause": "[O Muhammad],"
+            },
+            {
+                "clause": "al-"
+            },
+            {
+                "clause": "Kawthar."
+            }
+        ]
+    },
+    "6206": {
+        "chapter": 108,
+        "verse-number": 2,
+        "verse-arabic": "فَصَلِّ لِرَبِّكَ وَانْحَرْ",
+        "verse-english": "So pray to your Lord and sacrifice [to Him alone].",
+        "clauses-arabic": [
+            {
+                "clause": "فَصَلِّ لِرَبِّكَ وَانْحَرْ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "So pray to your Lord and sacrifice [to Him alone]."
+            }
+        ]
+    },
+    "6207": {
+        "chapter": 108,
+        "verse-number": 3,
+        "verse-arabic": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
+        "verse-english": "Indeed, your enemy is the one cut off.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Indeed,"
+            },
+            {
+                "clause": "your enemy is the one cut off."
+            }
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "6217": {
+        "chapter": 111,
+        "verse-number": 1,
+        "verse-arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ",
+        "verse-english": "May the hands of Abu Lahab be ruined, and ruined is he.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "May the hands of Abu Lahab be ruined,"
+            },
+            {
+                "clause": "and ruined is he."
+            }
+        ]
+    },
+    "6218": {
+        "chapter": 111,
+        "verse-number": 2,
+        "verse-arabic": "مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ",
+        "verse-english": "His wealth will not avail him or that which he gained.",
+        "clauses-arabic": [
+            {
+                "clause": "مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "His wealth will not avail him or that which he gained."
+            }
+        ]
+    },
+    "6219": {
+        "chapter": 111,
+        "verse-number": 3,
+        "verse-arabic": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+        "verse-english": "He will [enter to] burn in a Fire of [blazing] flame",
+        "clauses-arabic": [
+            {
+                "clause": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "He will [enter to] burn in a Fire of [blazing] flame"
+            }
+        ]
+    },
+    "6220": {
+        "chapter": 111,
+        "verse-number": 4,
+        "verse-arabic": "وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ",
+        "verse-english": "And his wife [as well] - the carrier of firewood.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And his wife [as well] -"
+            },
+            {
+                "clause": "the carrier of firewood."
+            }
+        ]
+    },
+    "6221": {
+        "chapter": 111,
+        "verse-number": 5,
+        "verse-arabic": "فِي جِيدِهَا حَبْلٌ مِّن مَّسَدٍ",
+        "verse-english": "Around her neck is a rope of [twisted] fiber.",
+        "clauses-arabic": [
+            {
+                "clause": "فِي جِيدِهَا حَبْلٌ مِّن مَّسَدٍ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Around her neck is a rope of [twisted] fiber."
+            }
+        ]
+    }
+}

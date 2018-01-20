@@ -1,0 +1,78 @@
+{
+    "6194": {
+        "chapter": 106,
+        "verse-number": 1,
+        "verse-arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ لِإِيلَافِ قُرَيْشٍ",
+        "verse-english": "For the accustomed security of the Quraysh -",
+        "clauses-arabic": [
+            {
+                "clause": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ لِإِيلَافِ قُرَيْشٍ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "For the accustomed security of the Quraysh -"
+            }
+        ]
+    },
+    "6195": {
+        "chapter": 106,
+        "verse-number": 2,
+        "verse-arabic": "إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ",
+        "verse-english": "Their accustomed security [in] the caravan of winter and summer -",
+        "clauses-arabic": [
+            {
+                "clause": "إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Their accustomed security [in] the caravan of winter and summer -"
+            }
+        ]
+    },
+    "6196": {
+        "chapter": 106,
+        "verse-number": 3,
+        "verse-arabic": "فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ",
+        "verse-english": "Let them worship the Lord of this House,",
+        "clauses-arabic": [
+            {
+                "clause": "فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Let them worship the Lord of this House,"
+            }
+        ]
+    },
+    "6197": {
+        "chapter": 106,
+        "verse-number": 4,
+        "verse-arabic": "الَّذِي أَطْعَمَهُم مِّن جُوعٍ وَآمَنَهُم مِّنْ خَوْفٍ",
+        "verse-english": "Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Who has fed them,"
+            },
+            {
+                "clause": "[saving them] from hunger and made them safe,"
+            },
+            {
+                "clause": "[saving them] from fear."
+            }
+        ]
+    }
+}

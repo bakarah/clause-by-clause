@@ -1,0 +1,116 @@
+{
+    "6208": {
+        "chapter": 109,
+        "verse-number": 1,
+        "verse-arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ قُلْ يَا أَيُّهَا الْكَافِرُونَ",
+        "verse-english": "Say, \"O disbelievers,",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Say,"
+            },
+            {
+                "clause": "\"O disbelievers,"
+            }
+        ]
+    },
+    "6209": {
+        "chapter": 109,
+        "verse-number": 2,
+        "verse-arabic": "لَا أَعْبُدُ مَا تَعْبُدُونَ",
+        "verse-english": "I do not worship what you worship.",
+        "clauses-arabic": [
+            {
+                "clause": "لَا أَعْبُدُ مَا تَعْبُدُونَ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "I do not worship what you worship."
+            }
+        ]
+    },
+    "6210": {
+        "chapter": 109,
+        "verse-number": 3,
+        "verse-arabic": "وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ",
+        "verse-english": "Nor are you worshippers of what I worship.",
+        "clauses-arabic": [
+            {
+                "clause": "وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Nor are you worshippers of what I worship."
+            }
+        ]
+    },
+    "6211": {
+        "chapter": 109,
+        "verse-number": 4,
+        "verse-arabic": "وَلَا أَنَا عَابِدٌ مَّا عَبَدتُّمْ",
+        "verse-english": "Nor will I be a worshipper of what you worship.",
+        "clauses-arabic": [
+            {
+                "clause": "وَلَا أَنَا عَابِدٌ مَّا عَبَدتُّمْ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Nor will I be a worshipper of what you worship."
+            }
+        ]
+    },
+    "6212": {
+        "chapter": 109,
+        "verse-number": 5,
+        "verse-arabic": "وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ",
+        "verse-english": "Nor will you be worshippers of what I worship.",
+        "clauses-arabic": [
+            {
+                "clause": "وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Nor will you be worshippers of what I worship."
+            }
+        ]
+    },
+    "6213": {
+        "chapter": 109,
+        "verse-number": 6,
+        "verse-arabic": "لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+        "verse-english": "For you is your religion, and for me is my religion.\"",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "For you is your religion,"
+            },
+            {
+                "clause": "and for me is my religion."
+            },
+            {
+                "clause": "\""
+            }
+        ]
+    }
+}

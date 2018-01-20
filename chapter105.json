@@ -1,0 +1,94 @@
+{
+    "6189": {
+        "chapter": 105,
+        "verse-number": 1,
+        "verse-arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
+        "verse-english": "Have you not considered, [O Muhammad], how your Lord dealt with the companions of the elephant?",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Have you not considered,"
+            },
+            {
+                "clause": "[O Muhammad],"
+            },
+            {
+                "clause": "how your Lord dealt with the companions of the elephant?"
+            }
+        ]
+    },
+    "6190": {
+        "chapter": 105,
+        "verse-number": 2,
+        "verse-arabic": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ",
+        "verse-english": "Did He not make their plan into misguidance?",
+        "clauses-arabic": [
+            {
+                "clause": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Did He not make their plan into misguidance?"
+            }
+        ]
+    },
+    "6191": {
+        "chapter": 105,
+        "verse-number": 3,
+        "verse-arabic": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+        "verse-english": "And He sent against them birds in flocks,",
+        "clauses-arabic": [
+            {
+                "clause": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And He sent against them birds in flocks,"
+            }
+        ]
+    },
+    "6192": {
+        "chapter": 105,
+        "verse-number": 4,
+        "verse-arabic": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+        "verse-english": "Striking them with stones of hard clay,",
+        "clauses-arabic": [
+            {
+                "clause": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Striking them with stones of hard clay,"
+            }
+        ]
+    },
+    "6193": {
+        "chapter": 105,
+        "verse-number": 5,
+        "verse-arabic": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ",
+        "verse-english": "And He made them like eaten straw.",
+        "clauses-arabic": [
+            {
+                "clause": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And He made them like eaten straw."
+            }
+        ]
+    }
+}
