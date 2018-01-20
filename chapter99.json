@@ -1,0 +1,154 @@
+{
+    "6139": {
+        "chapter": 99,
+        "verse-number": 1,
+        "verse-arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا",
+        "verse-english": "When the earth is shaken with its [final] earthquake",
+        "clauses-arabic": [
+            {
+                "clause": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "When the earth is shaken with its [final] earthquake"
+            }
+        ]
+    },
+    "6140": {
+        "chapter": 99,
+        "verse-number": 2,
+        "verse-arabic": "وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا",
+        "verse-english": "And the earth discharges its burdens",
+        "clauses-arabic": [
+            {
+                "clause": "وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And the earth discharges its burdens"
+            }
+        ]
+    },
+    "6141": {
+        "chapter": 99,
+        "verse-number": 3,
+        "verse-arabic": "وَقَالَ الْإِنسَانُ مَا لَهَا",
+        "verse-english": "And man says, \"What is [wrong] with it?\" -",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And man says,"
+            },
+            {
+                "clause": "\"What is [wrong] with it?"
+            },
+            {
+                "clause": "\" -"
+            }
+        ]
+    },
+    "6142": {
+        "chapter": 99,
+        "verse-number": 4,
+        "verse-arabic": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+        "verse-english": "That Day, it will report its news",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "That Day,"
+            },
+            {
+                "clause": "it will report its news"
+            }
+        ]
+    },
+    "6143": {
+        "chapter": 99,
+        "verse-number": 5,
+        "verse-arabic": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+        "verse-english": "Because your Lord has commanded it.",
+        "clauses-arabic": [
+            {
+                "clause": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Because your Lord has commanded it."
+            }
+        ]
+    },
+    "6144": {
+        "chapter": 99,
+        "verse-number": 6,
+        "verse-arabic": "يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِّيُرَوْا أَعْمَالَهُمْ",
+        "verse-english": "That Day, the people will depart separated [into categories] to be shown [the result of] their deeds.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "That Day,"
+            },
+            {
+                "clause": "the people will depart separated [into categories] to be shown [the result of] their deeds."
+            }
+        ]
+    },
+    "6145": {
+        "chapter": 99,
+        "verse-number": 7,
+        "verse-arabic": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ",
+        "verse-english": "So whoever does an atom's weight of good will see it,",
+        "clauses-arabic": [
+            {
+                "clause": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "So whoever does an atom's weight of good will see it,"
+            }
+        ]
+    },
+    "6146": {
+        "chapter": 99,
+        "verse-number": 8,
+        "verse-arabic": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ",
+        "verse-english": "And whoever does an atom's weight of evil will see it.",
+        "clauses-arabic": [
+            {
+                "clause": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And whoever does an atom's weight of evil will see it."
+            }
+        ]
+    }
+}

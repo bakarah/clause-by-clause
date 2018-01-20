@@ -1,0 +1,654 @@
+{
+    "5151": {
+        "chapter": 60,
+        "verse-number": 1,
+        "verse-arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا عَدُوِّي وَعَدُوَّكُمْ أَوْلِيَاءَ تُلْقُونَ إِلَيْهِم بِالْمَوَدَّةِ وَقَدْ كَفَرُوا بِمَا جَاءَكُم مِّنَ الْحَقِّ يُخْرِجُونَ الرَّسُولَ وَإِيَّاكُمْ ۙ أَن تُؤْمِنُوا بِاللَّهِ رَبِّكُمْ إِن كُنتُمْ خَرَجْتُمْ جِهَادًا فِي سَبِيلِي وَابْتِغَاءَ مَرْضَاتِي ۚ تُسِرُّونَ إِلَيْهِم بِالْمَوَدَّةِ وَأَنَا أَعْلَمُ بِمَا أَخْفَيْتُمْ وَمَا أَعْلَنتُمْ ۚ وَمَن يَفْعَلْهُ مِنكُمْ فَقَدْ ضَلَّ سَوَاءَ السَّبِيلِ",
+        "verse-english": "O you who have believed, do not take My enemies and your enemies as allies, extending to them affection while they have disbelieved in what came to you of the truth, having driven out the Prophet and yourselves [only] because you believe in Allah, your Lord. If you have come out for jihad in My cause and seeking means to My approval, [take them not as friends]. You confide to them affection, but I am most knowing of what you have concealed and what you have declared. And whoever does it among you has certainly strayed from the soundness of the way.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "O you who have believed,"
+            },
+            {
+                "clause": "do not take My enemies and your enemies as allies,"
+            },
+            {
+                "clause": "extending to them affection while they have disbelieved in what came to you of the truth,"
+            },
+            {
+                "clause": "having driven out the Prophet and yourselves [only] because you believe in God,"
+            },
+            {
+                "clause": "your Lord."
+            },
+            {
+                "clause": "If you have come out for jihad in My cause and seeking means to My approval,"
+            },
+            {
+                "clause": "[take them not as friends]."
+            },
+            {
+                "clause": "You confide to them affection,"
+            },
+            {
+                "clause": "but I am most knowing of what you have concealed and what you have declared."
+            },
+            {
+                "clause": "And whoever does it among you has certainly strayed from the soundness of the way."
+            }
+        ]
+    },
+    "5152": {
+        "chapter": 60,
+        "verse-number": 2,
+        "verse-arabic": "إِن يَثْقَفُوكُمْ يَكُونُوا لَكُمْ أَعْدَاءً وَيَبْسُطُوا إِلَيْكُمْ أَيْدِيَهُمْ وَأَلْسِنَتَهُم بِالسُّوءِ وَوَدُّوا لَوْ تَكْفُرُونَ",
+        "verse-english": "If they gain dominance over you, they would be to you as enemies and extend against you their hands and their tongues with evil, and they wish you would disbelieve.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "If they gain dominance over you,"
+            },
+            {
+                "clause": "they would be to you as enemies and extend against you their hands and their tongues with evil,"
+            },
+            {
+                "clause": "and they wish you would disbelieve."
+            }
+        ]
+    },
+    "5153": {
+        "chapter": 60,
+        "verse-number": 3,
+        "verse-arabic": "لَن تَنفَعَكُمْ أَرْحَامُكُمْ وَلَا أَوْلَادُكُمْ ۚ يَوْمَ الْقِيَامَةِ يَفْصِلُ بَيْنَكُمْ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+        "verse-english": "Never will your relatives or your children benefit you; the Day of Resurrection He will judge between you. And Allah, of what you do, is Seeing.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Never will your relatives or your children benefit you;"
+            },
+            {
+                "clause": "the Day of Resurrection He will judge between you."
+            },
+            {
+                "clause": "And God,"
+            },
+            {
+                "clause": "of what you do,"
+            },
+            {
+                "clause": "is Seeing."
+            }
+        ]
+    },
+    "5154": {
+        "chapter": 60,
+        "verse-number": 4,
+        "verse-arabic": "قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِي إِبْرَاهِيمَ وَالَّذِينَ مَعَهُ إِذْ قَالُوا لِقَوْمِهِمْ إِنَّا بُرَآءُ مِنكُمْ وَمِمَّا تَعْبُدُونَ مِن دُونِ اللَّهِ كَفَرْنَا بِكُمْ وَبَدَا بَيْنَنَا وَبَيْنَكُمُ الْعَدَاوَةُ وَالْبَغْضَاءُ أَبَدًا حَتَّىٰ تُؤْمِنُوا بِاللَّهِ وَحْدَهُ إِلَّا قَوْلَ إِبْرَاهِيمَ لِأَبِيهِ لَأَسْتَغْفِرَنَّ لَكَ وَمَا أَمْلِكُ لَكَ مِنَ اللَّهِ مِن شَيْءٍ ۖ رَّبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ الْمَصِيرُ",
+        "verse-english": "There has already been for you an excellent pattern in Abraham and those with him, when they said to their people, \"Indeed, we are disassociated from you and from whatever you worship other than Allah. We have denied you, and there has appeared between us and you animosity and hatred forever until you believe in Allah alone\" except for the saying of Abraham to his father, \"I will surely ask forgiveness for you, but I have not [power to do] for you anything against Allah. Our Lord, upon You we have relied, and to You we have returned, and to You is the destination.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "There has already been for you an excellent pattern in Abraham and those with him,"
+            },
+            {
+                "clause": "when they said to their people,"
+            },
+            {
+                "clause": "\"Indeed,"
+            },
+            {
+                "clause": "we are disassociated from you and from whatever you worship other than God."
+            },
+            {
+                "clause": "We have denied you,"
+            },
+            {
+                "clause": "and there has appeared between us and you animosity and hatred forever until you believe in God alone\" except for the saying of Abraham to his father,"
+            },
+            {
+                "clause": "\"I will surely ask forgiveness for you,"
+            },
+            {
+                "clause": "but I have not [power to do] for you anything against God."
+            },
+            {
+                "clause": "Our Lord,"
+            },
+            {
+                "clause": "upon You we have relied,"
+            },
+            {
+                "clause": "and to You we have returned,"
+            },
+            {
+                "clause": "and to You is the destination."
+            }
+        ]
+    },
+    "5155": {
+        "chapter": 60,
+        "verse-number": 5,
+        "verse-arabic": "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلَّذِينَ كَفَرُوا وَاغْفِرْ لَنَا رَبَّنَا ۖ إِنَّكَ أَنتَ الْعَزِيزُ الْحَكِيمُ",
+        "verse-english": "Our Lord, make us not [objects of] torment for the disbelievers and forgive us, our Lord. Indeed, it is You who is the Exalted in Might, the Wise.\"",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Our Lord,"
+            },
+            {
+                "clause": "make us not [objects of] torment for the disbelievers and forgive us,"
+            },
+            {
+                "clause": "our Lord."
+            },
+            {
+                "clause": "Indeed,"
+            },
+            {
+                "clause": "it is You who is the Exalted in Might,"
+            },
+            {
+                "clause": "the Wise."
+            },
+            {
+                "clause": "\""
+            }
+        ]
+    },
+    "5156": {
+        "chapter": 60,
+        "verse-number": 6,
+        "verse-arabic": "لَقَدْ كَانَ لَكُمْ فِيهِمْ أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ ۚ وَمَن يَتَوَلَّ فَإِنَّ اللَّهَ هُوَ الْغَنِيُّ الْحَمِيدُ",
+        "verse-english": "There has certainly been for you in them an excellent pattern for anyone whose hope is in Allah and the Last Day. And whoever turns away - then indeed, Allah is the Free of need, the Praiseworthy.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "There has certainly been for you in them an excellent pattern for anyone whose hope is in God and the Last Day."
+            },
+            {
+                "clause": "And whoever turns away -"
+            },
+            {
+                "clause": "then indeed,"
+            },
+            {
+                "clause": "God is the Free of need,"
+            },
+            {
+                "clause": "the Praiseworthy."
+            }
+        ]
+    },
+    "5157": {
+        "chapter": 60,
+        "verse-number": 7,
+        "verse-arabic": "۞ عَسَى اللَّهُ أَن يَجْعَلَ بَيْنَكُمْ وَبَيْنَ الَّذِينَ عَادَيْتُم مِّنْهُم مَّوَدَّةً ۚ وَاللَّهُ قَدِيرٌ ۚ وَاللَّهُ غَفُورٌ رَّحِيمٌ",
+        "verse-english": "Perhaps Allah will put, between you and those to whom you have been enemies among them, affection. And Allah is competent, and Allah is Forgiving and Merciful.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Perhaps God will put,"
+            },
+            {
+                "clause": "between you and those to whom you have been enemies among them,"
+            },
+            {
+                "clause": "affection."
+            },
+            {
+                "clause": "And God is competent,"
+            },
+            {
+                "clause": "and God is Forgiving and Merciful."
+            }
+        ]
+    },
+    "5158": {
+        "chapter": 60,
+        "verse-number": 8,
+        "verse-arabic": "لَّا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ وَلَمْ يُخْرِجُوكُم مِّن دِيَارِكُمْ أَن تَبَرُّوهُمْ وَتُقْسِطُوا إِلَيْهِمْ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ",
+        "verse-english": "Allah does not forbid you from those who do not fight you because of religion and do not expel you from your homes - from being righteous toward them and acting justly toward them. Indeed, Allah loves those who act justly.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "God does not forbid you from those who do not fight you because of religion and do not expel you from your homes -"
+            },
+            {
+                "clause": "from being righteous toward them and acting justly toward them."
+            },
+            {
+                "clause": "Indeed,"
+            },
+            {
+                "clause": "God loves those who act justly."
+            }
+        ]
+    },
+    "5159": {
+        "chapter": 60,
+        "verse-number": 9,
+        "verse-arabic": "إِنَّمَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ قَاتَلُوكُمْ فِي الدِّينِ وَأَخْرَجُوكُم مِّن دِيَارِكُمْ وَظَاهَرُوا عَلَىٰ إِخْرَاجِكُمْ أَن تَوَلَّوْهُمْ ۚ وَمَن يَتَوَلَّهُمْ فَأُولَٰئِكَ هُمُ الظَّالِمُونَ",
+        "verse-english": "Allah only forbids you from those who fight you because of religion and expel you from your homes and aid in your expulsion - [forbids] that you make allies of them. And whoever makes allies of them, then it is those who are the wrongdoers.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "God only forbids you from those who fight you because of religion and expel you from your homes and aid in your expulsion -"
+            },
+            {
+                "clause": "[forbids] that you make allies of them."
+            },
+            {
+                "clause": "And whoever makes allies of them,"
+            },
+            {
+                "clause": "then it is those who are the wrongdoers."
+            }
+        ]
+    },
+    "5160": {
+        "chapter": 60,
+        "verse-number": 10,
+        "verse-arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا جَاءَكُمُ الْمُؤْمِنَاتُ مُهَاجِرَاتٍ فَامْتَحِنُوهُنَّ ۖ اللَّهُ أَعْلَمُ بِإِيمَانِهِنَّ ۖ فَإِنْ عَلِمْتُمُوهُنَّ مُؤْمِنَاتٍ فَلَا تَرْجِعُوهُنَّ إِلَى الْكُفَّارِ ۖ لَا هُنَّ حِلٌّ لَّهُمْ وَلَا هُمْ يَحِلُّونَ لَهُنَّ ۖ وَآتُوهُم مَّا أَنفَقُوا ۚ وَلَا جُنَاحَ عَلَيْكُمْ أَن تَنكِحُوهُنَّ إِذَا آتَيْتُمُوهُنَّ أُجُورَهُنَّ ۚ وَلَا تُمْسِكُوا بِعِصَمِ الْكَوَافِرِ وَاسْأَلُوا مَا أَنفَقْتُمْ وَلْيَسْأَلُوا مَا أَنفَقُوا ۚ ذَٰلِكُمْ حُكْمُ اللَّهِ ۖ يَحْكُمُ بَيْنَكُمْ ۚ وَاللَّهُ عَلِيمٌ حَكِيمٌ",
+        "verse-english": "O you who have believed, when the believing women come to you as emigrants, examine them. Allah is most knowing as to their faith. And if you know them to be believers, then do not return them to the disbelievers; they are not lawful [wives] for them, nor are they lawful [husbands] for them. But give the disbelievers what they have spent. And there is no blame upon you if you marry them when you have given them their due compensation. And hold not to marriage bonds with disbelieving women, but ask for what you have spent and let them ask for what they have spent. That is the judgement of Allah; He judges between you. And Allah is Knowing and Wise.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "O you who have believed,"
+            },
+            {
+                "clause": "when the believing women come to you as emigrants,"
+            },
+            {
+                "clause": "examine them."
+            },
+            {
+                "clause": "God is most knowing as to their faith."
+            },
+            {
+                "clause": "And if you know them to be believers,"
+            },
+            {
+                "clause": "then do not return them to the disbelievers;"
+            },
+            {
+                "clause": "they are not lawful [wives] for them,"
+            },
+            {
+                "clause": "nor are they lawful [husbands] for them."
+            },
+            {
+                "clause": "But give the disbelievers what they have spent."
+            },
+            {
+                "clause": "And there is no blame upon you if you marry them when you have given them their due compensation."
+            },
+            {
+                "clause": "And hold not to marriage bonds with disbelieving women,"
+            },
+            {
+                "clause": "but ask for what you have spent and let them ask for what they have spent."
+            },
+            {
+                "clause": "That is the judgement of God;"
+            },
+            {
+                "clause": "He judges between you."
+            },
+            {
+                "clause": "And God is Knowing and Wise."
+            }
+        ]
+    },
+    "5161": {
+        "chapter": 60,
+        "verse-number": 11,
+        "verse-arabic": "وَإِن فَاتَكُمْ شَيْءٌ مِّنْ أَزْوَاجِكُمْ إِلَى الْكُفَّارِ فَعَاقَبْتُمْ فَآتُوا الَّذِينَ ذَهَبَتْ أَزْوَاجُهُم مِّثْلَ مَا أَنفَقُوا ۚ وَاتَّقُوا اللَّهَ الَّذِي أَنتُم بِهِ مُؤْمِنُونَ",
+        "verse-english": "And if you have lost any of your wives to the disbelievers and you subsequently obtain [something], then give those whose wives have gone the equivalent of what they had spent. And fear Allah, in whom you are believers.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And if you have lost any of your wives to the disbelievers and you subsequently obtain [something],"
+            },
+            {
+                "clause": "then give those whose wives have gone the equivalent of what they had spent."
+            },
+            {
+                "clause": "And fear God,"
+            },
+            {
+                "clause": "in whom you are believers."
+            }
+        ]
+    },
+    "5162": {
+        "chapter": 60,
+        "verse-number": 12,
+        "verse-arabic": "يَا أَيُّهَا النَّبِيُّ إِذَا جَاءَكَ الْمُؤْمِنَاتُ يُبَايِعْنَكَ عَلَىٰ أَن لَّا يُشْرِكْنَ بِاللَّهِ شَيْئًا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَادَهُنَّ وَلَا يَأْتِينَ بِبُهْتَانٍ يَفْتَرِينَهُ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِي مَعْرُوفٍ ۙ فَبَايِعْهُنَّ وَاسْتَغْفِرْ لَهُنَّ اللَّهَ ۖ إِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ",
+        "verse-english": "O Prophet, when the believing women come to you pledging to you that they will not associate anything with Allah, nor will they steal, nor will they commit unlawful sexual intercourse, nor will they kill their children, nor will they bring forth a slander they have invented between their arms and legs, nor will they disobey you in what is right - then accept their pledge and ask forgiveness for them of Allah. Indeed, Allah is Forgiving and Merciful.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "O Prophet,"
+            },
+            {
+                "clause": "when the believing women come to you pledging to you that they will not associate anything with God,"
+            },
+            {
+                "clause": "nor will they steal,"
+            },
+            {
+                "clause": "nor will they commit unlawful sexual intercourse,"
+            },
+            {
+                "clause": "nor will they kill their children,"
+            },
+            {
+                "clause": "nor will they bring forth a slander they have invented between their arms and legs,"
+            },
+            {
+                "clause": "nor will they disobey you in what is right -"
+            },
+            {
+                "clause": "then accept their pledge and ask forgiveness for them of God."
+            },
+            {
+                "clause": "Indeed,"
+            },
+            {
+                "clause": "God is Forgiving and Merciful."
+            }
+        ]
+    },
+    "5163": {
+        "chapter": 60,
+        "verse-number": 13,
+        "verse-arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَوَلَّوْا قَوْمًا غَضِبَ اللَّهُ عَلَيْهِمْ قَدْ يَئِسُوا مِنَ الْآخِرَةِ كَمَا يَئِسَ الْكُفَّارُ مِنْ أَصْحَابِ الْقُبُورِ",
+        "verse-english": "O you who have believed, do not make allies of a people with whom Allah has become angry. They have despaired of [reward in] the Hereafter just as the disbelievers have despaired of [meeting] the inhabitants of the graves.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "O you who have believed,"
+            },
+            {
+                "clause": "do not make allies of a people with whom God has become angry."
+            },
+            {
+                "clause": "They have despaired of [reward in] the Hereafter just as the disbelievers have despaired of [meeting] the inhabitants of the graves."
+            }
+        ]
+    }
+}

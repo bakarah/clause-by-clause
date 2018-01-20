@@ -1,0 +1,2438 @@
+{
+    "1803": {
+        "chapter": 15,
+        "verse-number": 1,
+        "verse-arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الر ۚ تِلْكَ آيَاتُ الْكِتَابِ وَقُرْآنٍ مُّبِينٍ",
+        "verse-english": "Alif, Lam, Ra. These are the verses of the Book and a clear Qur'an.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Alif,"
+            },
+            {
+                "clause": "Lam,"
+            },
+            {
+                "clause": "Ra."
+            },
+            {
+                "clause": "These are the verses of the Book and a clear Qur'an."
+            }
+        ]
+    },
+    "1804": {
+        "chapter": 15,
+        "verse-number": 2,
+        "verse-arabic": "رُّبَمَا يَوَدُّ الَّذِينَ كَفَرُوا لَوْ كَانُوا مُسْلِمِينَ",
+        "verse-english": "Perhaps those who disbelieve will wish that they had been Muslims.",
+        "clauses-arabic": [
+            {
+                "clause": "رُّبَمَا يَوَدُّ الَّذِينَ كَفَرُوا لَوْ كَانُوا مُسْلِمِينَ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Perhaps those who disbelieve will wish that they had been Muslims."
+            }
+        ]
+    },
+    "1805": {
+        "chapter": 15,
+        "verse-number": 3,
+        "verse-arabic": "ذَرْهُمْ يَأْكُلُوا وَيَتَمَتَّعُوا وَيُلْهِهِمُ الْأَمَلُ ۖ فَسَوْفَ يَعْلَمُونَ",
+        "verse-english": "Let them eat and enjoy themselves and be diverted by [false] hope, for they are going to know.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Let them eat and enjoy themselves and be diverted by [false] hope,"
+            },
+            {
+                "clause": "for they are going to know."
+            }
+        ]
+    },
+    "1806": {
+        "chapter": 15,
+        "verse-number": 4,
+        "verse-arabic": "وَمَا أَهْلَكْنَا مِن قَرْيَةٍ إِلَّا وَلَهَا كِتَابٌ مَّعْلُومٌ",
+        "verse-english": "And We did not destroy any city but that for it was a known decree.",
+        "clauses-arabic": [
+            {
+                "clause": "وَمَا أَهْلَكْنَا مِن قَرْيَةٍ إِلَّا وَلَهَا كِتَابٌ مَّعْلُومٌ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And We did not destroy any city but that for it was a known decree."
+            }
+        ]
+    },
+    "1807": {
+        "chapter": 15,
+        "verse-number": 5,
+        "verse-arabic": "مَّا تَسْبِقُ مِنْ أُمَّةٍ أَجَلَهَا وَمَا يَسْتَأْخِرُونَ",
+        "verse-english": "No nation will precede its term, nor will they remain thereafter.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "No nation will precede its term,"
+            },
+            {
+                "clause": "nor will they remain thereafter."
+            }
+        ]
+    },
+    "1808": {
+        "chapter": 15,
+        "verse-number": 6,
+        "verse-arabic": "وَقَالُوا يَا أَيُّهَا الَّذِي نُزِّلَ عَلَيْهِ الذِّكْرُ إِنَّكَ لَمَجْنُونٌ",
+        "verse-english": "And they say, \"O you upon whom the message has been sent down, indeed you are mad.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And they say,"
+            },
+            {
+                "clause": "\"O you upon whom the message has been sent down,"
+            },
+            {
+                "clause": "indeed you are mad."
+            }
+        ]
+    },
+    "1809": {
+        "chapter": 15,
+        "verse-number": 7,
+        "verse-arabic": "لَّوْ مَا تَأْتِينَا بِالْمَلَائِكَةِ إِن كُنتَ مِنَ الصَّادِقِينَ",
+        "verse-english": "Why do you not bring us the angels, if you should be among the truthful?\"",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Why do you not bring us the angels,"
+            },
+            {
+                "clause": "if you should be among the truthful?"
+            },
+            {
+                "clause": "\""
+            }
+        ]
+    },
+    "1810": {
+        "chapter": 15,
+        "verse-number": 8,
+        "verse-arabic": "مَا نُنَزِّلُ الْمَلَائِكَةَ إِلَّا بِالْحَقِّ وَمَا كَانُوا إِذًا مُّنظَرِينَ",
+        "verse-english": "We do not send down the angels except with truth; and the disbelievers would not then be reprieved.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "We do not send down the angels except with truth;"
+            },
+            {
+                "clause": "and the disbelievers would not then be reprieved."
+            }
+        ]
+    },
+    "1811": {
+        "chapter": 15,
+        "verse-number": 9,
+        "verse-arabic": "إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ",
+        "verse-english": "Indeed, it is We who sent down the Qur'an and indeed, We will be its guardian.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Indeed,"
+            },
+            {
+                "clause": "it is We who sent down the Qur'an and indeed,"
+            },
+            {
+                "clause": "We will be its guardian."
+            }
+        ]
+    },
+    "1812": {
+        "chapter": 15,
+        "verse-number": 10,
+        "verse-arabic": "وَلَقَدْ أَرْسَلْنَا مِن قَبْلِكَ فِي شِيَعِ الْأَوَّلِينَ",
+        "verse-english": "And We had certainly sent [messengers] before you, [O Muhammad], among the sects of the former peoples.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And We had certainly sent [messengers] before you,"
+            },
+            {
+                "clause": "[O Muhammad],"
+            },
+            {
+                "clause": "among the sects of the former peoples."
+            }
+        ]
+    },
+    "1813": {
+        "chapter": 15,
+        "verse-number": 11,
+        "verse-arabic": "وَمَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+        "verse-english": "And no messenger would come to them except that they ridiculed him.",
+        "clauses-arabic": [
+            {
+                "clause": "وَمَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And no messenger would come to them except that they ridiculed him."
+            }
+        ]
+    },
+    "1814": {
+        "chapter": 15,
+        "verse-number": 12,
+        "verse-arabic": "كَذَٰلِكَ نَسْلُكُهُ فِي قُلُوبِ الْمُجْرِمِينَ",
+        "verse-english": "Thus do We insert denial into the hearts of the criminals.",
+        "clauses-arabic": [
+            {
+                "clause": "كَذَٰلِكَ نَسْلُكُهُ فِي قُلُوبِ الْمُجْرِمِينَ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Thus do We insert denial into the hearts of the criminals."
+            }
+        ]
+    },
+    "1815": {
+        "chapter": 15,
+        "verse-number": 13,
+        "verse-arabic": "لَا يُؤْمِنُونَ بِهِ ۖ وَقَدْ خَلَتْ سُنَّةُ الْأَوَّلِينَ",
+        "verse-english": "They will not believe in it, while there has already occurred the precedent of the former peoples.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "They will not believe in it,"
+            },
+            {
+                "clause": "while there has already occurred the precedent of the former peoples."
+            }
+        ]
+    },
+    "1816": {
+        "chapter": 15,
+        "verse-number": 14,
+        "verse-arabic": "وَلَوْ فَتَحْنَا عَلَيْهِم بَابًا مِّنَ السَّمَاءِ فَظَلُّوا فِيهِ يَعْرُجُونَ",
+        "verse-english": "And [even] if We opened to them a gate from the heaven and they continued therein to ascend,",
+        "clauses-arabic": [
+            {
+                "clause": "وَلَوْ فَتَحْنَا عَلَيْهِم بَابًا مِّنَ السَّمَاءِ فَظَلُّوا فِيهِ يَعْرُجُونَ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And [even] if We opened to them a gate from the heaven and they continued therein to ascend,"
+            }
+        ]
+    },
+    "1817": {
+        "chapter": 15,
+        "verse-number": 15,
+        "verse-arabic": "لَقَالُوا إِنَّمَا سُكِّرَتْ أَبْصَارُنَا بَلْ نَحْنُ قَوْمٌ مَّسْحُورُونَ",
+        "verse-english": "They would say, \"Our eyes have only been dazzled. Rather, we are a people affected by magic.\"",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "They would say,"
+            },
+            {
+                "clause": "\"Our eyes have only been dazzled."
+            },
+            {
+                "clause": "Rather,"
+            },
+            {
+                "clause": "we are a people affected by magic."
+            },
+            {
+                "clause": "\""
+            }
+        ]
+    },
+    "1818": {
+        "chapter": 15,
+        "verse-number": 16,
+        "verse-arabic": "وَلَقَدْ جَعَلْنَا فِي السَّمَاءِ بُرُوجًا وَزَيَّنَّاهَا لِلنَّاظِرِينَ",
+        "verse-english": "And We have placed within the heaven great stars and have beautified it for the observers.",
+        "clauses-arabic": [
+            {
+                "clause": "وَلَقَدْ جَعَلْنَا فِي السَّمَاءِ بُرُوجًا وَزَيَّنَّاهَا لِلنَّاظِرِينَ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And We have placed within the heaven great stars and have beautified it for the observers."
+            }
+        ]
+    },
+    "1819": {
+        "chapter": 15,
+        "verse-number": 17,
+        "verse-arabic": "وَحَفِظْنَاهَا مِن كُلِّ شَيْطَانٍ رَّجِيمٍ",
+        "verse-english": "And We have protected it from every devil expelled [from the mercy of Allah]",
+        "clauses-arabic": [
+            {
+                "clause": "وَحَفِظْنَاهَا مِن كُلِّ شَيْطَانٍ رَّجِيمٍ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And We have protected it from every devil expelled [from the mercy of God]"
+            }
+        ]
+    },
+    "1820": {
+        "chapter": 15,
+        "verse-number": 18,
+        "verse-arabic": "إِلَّا مَنِ اسْتَرَقَ السَّمْعَ فَأَتْبَعَهُ شِهَابٌ مُّبِينٌ",
+        "verse-english": "Except one who steals a hearing and is pursued by a clear burning flame.",
+        "clauses-arabic": [
+            {
+                "clause": "إِلَّا مَنِ اسْتَرَقَ السَّمْعَ فَأَتْبَعَهُ شِهَابٌ مُّبِينٌ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Except one who steals a hearing and is pursued by a clear burning flame."
+            }
+        ]
+    },
+    "1821": {
+        "chapter": 15,
+        "verse-number": 19,
+        "verse-arabic": "وَالْأَرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنبَتْنَا فِيهَا مِن كُلِّ شَيْءٍ مَّوْزُونٍ",
+        "verse-english": "And the earth - We have spread it and cast therein firmly set mountains and caused to grow therein [something] of every well-balanced thing.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And the earth -"
+            },
+            {
+                "clause": "We have spread it and cast therein firmly set mountains and caused to grow therein [something] of every well-"
+            },
+            {
+                "clause": "balanced thing."
+            }
+        ]
+    },
+    "1822": {
+        "chapter": 15,
+        "verse-number": 20,
+        "verse-arabic": "وَجَعَلْنَا لَكُمْ فِيهَا مَعَايِشَ وَمَن لَّسْتُمْ لَهُ بِرَازِقِينَ",
+        "verse-english": "And We have made for you therein means of living and [for] those for whom you are not providers.",
+        "clauses-arabic": [
+            {
+                "clause": "وَجَعَلْنَا لَكُمْ فِيهَا مَعَايِشَ وَمَن لَّسْتُمْ لَهُ بِرَازِقِينَ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And We have made for you therein means of living and [for] those for whom you are not providers."
+            }
+        ]
+    },
+    "1823": {
+        "chapter": 15,
+        "verse-number": 21,
+        "verse-arabic": "وَإِن مِّن شَيْءٍ إِلَّا عِندَنَا خَزَائِنُهُ وَمَا نُنَزِّلُهُ إِلَّا بِقَدَرٍ مَّعْلُومٍ",
+        "verse-english": "And there is not a thing but that with Us are its depositories, and We do not send it down except according to a known measure.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And there is not a thing but that with Us are its depositories,"
+            },
+            {
+                "clause": "and We do not send it down except according to a known measure."
+            }
+        ]
+    },
+    "1824": {
+        "chapter": 15,
+        "verse-number": 22,
+        "verse-arabic": "وَأَرْسَلْنَا الرِّيَاحَ لَوَاقِحَ فَأَنزَلْنَا مِنَ السَّمَاءِ مَاءً فَأَسْقَيْنَاكُمُوهُ وَمَا أَنتُمْ لَهُ بِخَازِنِينَ",
+        "verse-english": "And We have sent the fertilizing winds and sent down water from the sky and given you drink from it. And you are not its retainers.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And We have sent the fertilizing winds and sent down water from the sky and given you drink from it."
+            },
+            {
+                "clause": "And you are not its retainers."
+            }
+        ]
+    },
+    "1825": {
+        "chapter": 15,
+        "verse-number": 23,
+        "verse-arabic": "وَإِنَّا لَنَحْنُ نُحْيِي وَنُمِيتُ وَنَحْنُ الْوَارِثُونَ",
+        "verse-english": "And indeed, it is We who give life and cause death, and We are the Inheritor.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And indeed,"
+            },
+            {
+                "clause": "it is We who give life and cause death,"
+            },
+            {
+                "clause": "and We are the Inheritor."
+            }
+        ]
+    },
+    "1826": {
+        "chapter": 15,
+        "verse-number": 24,
+        "verse-arabic": "وَلَقَدْ عَلِمْنَا الْمُسْتَقْدِمِينَ مِنكُمْ وَلَقَدْ عَلِمْنَا الْمُسْتَأْخِرِينَ",
+        "verse-english": "And We have already known the preceding [generations] among you, and We have already known the later [ones to come].",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And We have already known the preceding [generations] among you,"
+            },
+            {
+                "clause": "and We have already known the later [ones to come]."
+            }
+        ]
+    },
+    "1827": {
+        "chapter": 15,
+        "verse-number": 25,
+        "verse-arabic": "وَإِنَّ رَبَّكَ هُوَ يَحْشُرُهُمْ ۚ إِنَّهُ حَكِيمٌ عَلِيمٌ",
+        "verse-english": "And indeed, your Lord will gather them; indeed, He is Wise and Knowing.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And indeed,"
+            },
+            {
+                "clause": "your Lord will gather them;"
+            },
+            {
+                "clause": "indeed,"
+            },
+            {
+                "clause": "He is Wise and Knowing."
+            }
+        ]
+    },
+    "1828": {
+        "chapter": 15,
+        "verse-number": 26,
+        "verse-arabic": "وَلَقَدْ خَلَقْنَا الْإِنسَانَ مِن صَلْصَالٍ مِّنْ حَمَإٍ مَّسْنُونٍ",
+        "verse-english": "And We did certainly create man out of clay from an altered black mud.",
+        "clauses-arabic": [
+            {
+                "clause": "وَلَقَدْ خَلَقْنَا الْإِنسَانَ مِن صَلْصَالٍ مِّنْ حَمَإٍ مَّسْنُونٍ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And We did certainly create man out of clay from an altered black mud."
+            }
+        ]
+    },
+    "1829": {
+        "chapter": 15,
+        "verse-number": 27,
+        "verse-arabic": "وَالْجَانَّ خَلَقْنَاهُ مِن قَبْلُ مِن نَّارِ السَّمُومِ",
+        "verse-english": "And the jinn We created before from scorching fire.",
+        "clauses-arabic": [
+            {
+                "clause": "وَالْجَانَّ خَلَقْنَاهُ مِن قَبْلُ مِن نَّارِ السَّمُومِ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And the jinn We created before from scorching fire."
+            }
+        ]
+    },
+    "1830": {
+        "chapter": 15,
+        "verse-number": 28,
+        "verse-arabic": "وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِّن صَلْصَالٍ مِّنْ حَمَإٍ مَّسْنُونٍ",
+        "verse-english": "And [mention, O Muhammad], when your Lord said to the angels, \"I will create a human being out of clay from an altered black mud.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And [mention,"
+            },
+            {
+                "clause": "O Muhammad],"
+            },
+            {
+                "clause": "when your Lord said to the angels,"
+            },
+            {
+                "clause": "\"I will create a human being out of clay from an altered black mud."
+            }
+        ]
+    },
+    "1831": {
+        "chapter": 15,
+        "verse-number": 29,
+        "verse-arabic": "فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُوا لَهُ سَاجِدِينَ",
+        "verse-english": "And when I have proportioned him and breathed into him of My [created] soul, then fall down to him in prostration.\"",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And when I have proportioned him and breathed into him of My [created] soul,"
+            },
+            {
+                "clause": "then fall down to him in prostration."
+            },
+            {
+                "clause": "\""
+            }
+        ]
+    },
+    "1832": {
+        "chapter": 15,
+        "verse-number": 30,
+        "verse-arabic": "فَسَجَدَ الْمَلَائِكَةُ كُلُّهُمْ أَجْمَعُونَ",
+        "verse-english": "So the angels prostrated - all of them entirely,",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "So the angels prostrated -"
+            },
+            {
+                "clause": "all of them entirely,"
+            }
+        ]
+    },
+    "1833": {
+        "chapter": 15,
+        "verse-number": 31,
+        "verse-arabic": "إِلَّا إِبْلِيسَ أَبَىٰ أَن يَكُونَ مَعَ السَّاجِدِينَ",
+        "verse-english": "Except Iblees, he refused to be with those who prostrated.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Except Iblees,"
+            },
+            {
+                "clause": "he refused to be with those who prostrated."
+            }
+        ]
+    },
+    "1834": {
+        "chapter": 15,
+        "verse-number": 32,
+        "verse-arabic": "قَالَ يَا إِبْلِيسُ مَا لَكَ أَلَّا تَكُونَ مَعَ السَّاجِدِينَ",
+        "verse-english": "[Allah] said, O Iblees, what is [the matter] with you that you are not with those who prostrate?\"",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "[God] said,"
+            },
+            {
+                "clause": "O Iblees,"
+            },
+            {
+                "clause": "what is [the matter] with you that you are not with those who prostrate?"
+            },
+            {
+                "clause": "\""
+            }
+        ]
+    },
+    "1835": {
+        "chapter": 15,
+        "verse-number": 33,
+        "verse-arabic": "قَالَ لَمْ أَكُن لِّأَسْجُدَ لِبَشَرٍ خَلَقْتَهُ مِن صَلْصَالٍ مِّنْ حَمَإٍ مَّسْنُونٍ",
+        "verse-english": "He said, \"Never would I prostrate to a human whom You created out of clay from an altered black mud.\"",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "He said,"
+            },
+            {
+                "clause": "\"Never would I prostrate to a human whom You created out of clay from an altered black mud."
+            },
+            {
+                "clause": "\""
+            }
+        ]
+    },
+    "1836": {
+        "chapter": 15,
+        "verse-number": 34,
+        "verse-arabic": "قَالَ فَاخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ",
+        "verse-english": "[Allah] said, \"Then get out of it, for indeed, you are expelled.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "[God] said,"
+            },
+            {
+                "clause": "\"Then get out of it,"
+            },
+            {
+                "clause": "for indeed,"
+            },
+            {
+                "clause": "you are expelled."
+            }
+        ]
+    },
+    "1837": {
+        "chapter": 15,
+        "verse-number": 35,
+        "verse-arabic": "وَإِنَّ عَلَيْكَ اللَّعْنَةَ إِلَىٰ يَوْمِ الدِّينِ",
+        "verse-english": "And indeed, upon you is the curse until the Day of Recompense.\"",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And indeed,"
+            },
+            {
+                "clause": "upon you is the curse until the Day of Recompense."
+            },
+            {
+                "clause": "\""
+            }
+        ]
+    },
+    "1838": {
+        "chapter": 15,
+        "verse-number": 36,
+        "verse-arabic": "قَالَ رَبِّ فَأَنظِرْنِي إِلَىٰ يَوْمِ يُبْعَثُونَ",
+        "verse-english": "He said, \"My Lord, then reprieve me until the Day they are resurrected.\"",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "He said,"
+            },
+            {
+                "clause": "\"My Lord,"
+            },
+            {
+                "clause": "then reprieve me until the Day they are resurrected."
+            },
+            {
+                "clause": "\""
+            }
+        ]
+    },
+    "1839": {
+        "chapter": 15,
+        "verse-number": 37,
+        "verse-arabic": "قَالَ فَإِنَّكَ مِنَ الْمُنظَرِينَ",
+        "verse-english": "[Allah] said, \"So indeed, you are of those reprieved",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "[God] said,"
+            },
+            {
+                "clause": "\"So indeed,"
+            },
+            {
+                "clause": "you are of those reprieved"
+            }
+        ]
+    },
+    "1840": {
+        "chapter": 15,
+        "verse-number": 38,
+        "verse-arabic": "إِلَىٰ يَوْمِ الْوَقْتِ الْمَعْلُومِ",
+        "verse-english": "Until the Day of the time well-known.\"",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Until the Day of the time well-"
+            },
+            {
+                "clause": "known."
+            },
+            {
+                "clause": "\""
+            }
+        ]
+    },
+    "1841": {
+        "chapter": 15,
+        "verse-number": 39,
+        "verse-arabic": "قَالَ رَبِّ بِمَا أَغْوَيْتَنِي لَأُزَيِّنَنَّ لَهُمْ فِي الْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ",
+        "verse-english": "[Iblees] said, \"My Lord, because You have put me in error, I will surely make [disobedience] attractive to them on earth, and I will mislead them all",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "[Iblees] said,"
+            },
+            {
+                "clause": "\"My Lord,"
+            },
+            {
+                "clause": "because You have put me in error,"
+            },
+            {
+                "clause": "I will surely make [disobedience] attractive to them on earth,"
+            },
+            {
+                "clause": "and I will mislead them all"
+            }
+        ]
+    },
+    "1842": {
+        "chapter": 15,
+        "verse-number": 40,
+        "verse-arabic": "إِلَّا عِبَادَكَ مِنْهُمُ الْمُخْلَصِينَ",
+        "verse-english": "Except, among them, Your chosen servants.\"",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Except,"
+            },
+            {
+                "clause": "among them,"
+            },
+            {
+                "clause": "Your chosen servants."
+            },
+            {
+                "clause": "\""
+            }
+        ]
+    },
+    "1843": {
+        "chapter": 15,
+        "verse-number": 41,
+        "verse-arabic": "قَالَ هَٰذَا صِرَاطٌ عَلَيَّ مُسْتَقِيمٌ",
+        "verse-english": "[Allah] said, \"This is a path [of return] to Me [that is] straight.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "[God] said,"
+            },
+            {
+                "clause": "\"This is a path [of return] to Me [that is] straight."
+            }
+        ]
+    },
+    "1844": {
+        "chapter": 15,
+        "verse-number": 42,
+        "verse-arabic": "إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ إِلَّا مَنِ اتَّبَعَكَ مِنَ الْغَاوِينَ",
+        "verse-english": "Indeed, My servants - no authority will you have over them, except those who follow you of the deviators.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Indeed,"
+            },
+            {
+                "clause": "My servants -"
+            },
+            {
+                "clause": "no authority will you have over them,"
+            },
+            {
+                "clause": "except those who follow you of the deviators."
+            }
+        ]
+    },
+    "1845": {
+        "chapter": 15,
+        "verse-number": 43,
+        "verse-arabic": "وَإِنَّ جَهَنَّمَ لَمَوْعِدُهُمْ أَجْمَعِينَ",
+        "verse-english": "And indeed, Hell is the promised place for them all.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And indeed,"
+            },
+            {
+                "clause": "Hell is the promised place for them all."
+            }
+        ]
+    },
+    "1846": {
+        "chapter": 15,
+        "verse-number": 44,
+        "verse-arabic": "لَهَا سَبْعَةُ أَبْوَابٍ لِّكُلِّ بَابٍ مِّنْهُمْ جُزْءٌ مَّقْسُومٌ",
+        "verse-english": "It has seven gates; for every gate is of them a portion designated.\"",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "It has seven gates;"
+            },
+            {
+                "clause": "for every gate is of them a portion designated."
+            },
+            {
+                "clause": "\""
+            }
+        ]
+    },
+    "1847": {
+        "chapter": 15,
+        "verse-number": 45,
+        "verse-arabic": "إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَعُيُونٍ",
+        "verse-english": "Indeed, the righteous will be within gardens and springs.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Indeed,"
+            },
+            {
+                "clause": "the righteous will be within gardens and springs."
+            }
+        ]
+    },
+    "1848": {
+        "chapter": 15,
+        "verse-number": 46,
+        "verse-arabic": "ادْخُلُوهَا بِسَلَامٍ آمِنِينَ",
+        "verse-english": "[Having been told], \"Enter it in peace, safe [and secure].\"",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "[Having been told],"
+            },
+            {
+                "clause": "\"Enter it in peace,"
+            },
+            {
+                "clause": "safe [and secure]."
+            },
+            {
+                "clause": "\""
+            }
+        ]
+    },
+    "1849": {
+        "chapter": 15,
+        "verse-number": 47,
+        "verse-arabic": "وَنَزَعْنَا مَا فِي صُدُورِهِم مِّنْ غِلٍّ إِخْوَانًا عَلَىٰ سُرُرٍ مُّتَقَابِلِينَ",
+        "verse-english": "And We will remove whatever is in their breasts of resentment, [so they will be] brothers, on thrones facing each other.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And We will remove whatever is in their breasts of resentment,"
+            },
+            {
+                "clause": "[so they will be] brothers,"
+            },
+            {
+                "clause": "on thrones facing each other."
+            }
+        ]
+    },
+    "1850": {
+        "chapter": 15,
+        "verse-number": 48,
+        "verse-arabic": "لَا يَمَسُّهُمْ فِيهَا نَصَبٌ وَمَا هُم مِّنْهَا بِمُخْرَجِينَ",
+        "verse-english": "No fatigue will touch them therein, nor from it will they [ever] be removed.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "No fatigue will touch them therein,"
+            },
+            {
+                "clause": "nor from it will they [ever] be removed."
+            }
+        ]
+    },
+    "1851": {
+        "chapter": 15,
+        "verse-number": 49,
+        "verse-arabic": "۞ نَبِّئْ عِبَادِي أَنِّي أَنَا الْغَفُورُ الرَّحِيمُ",
+        "verse-english": "[O Muhammad], inform My servants that it is I who am the Forgiving, the Merciful.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "[O Muhammad],"
+            },
+            {
+                "clause": "inform My servants that it is I who am the Forgiving,"
+            },
+            {
+                "clause": "the Merciful."
+            }
+        ]
+    },
+    "1852": {
+        "chapter": 15,
+        "verse-number": 50,
+        "verse-arabic": "وَأَنَّ عَذَابِي هُوَ الْعَذَابُ الْأَلِيمُ",
+        "verse-english": "And that it is My punishment which is the painful punishment.",
+        "clauses-arabic": [
+            {
+                "clause": "وَأَنَّ عَذَابِي هُوَ الْعَذَابُ الْأَلِيمُ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And that it is My punishment which is the painful punishment."
+            }
+        ]
+    },
+    "1853": {
+        "chapter": 15,
+        "verse-number": 51,
+        "verse-arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَاهِيمَ",
+        "verse-english": "And inform them about the guests of Abraham,",
+        "clauses-arabic": [
+            {
+                "clause": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَاهِيمَ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And inform them about the guests of Abraham,"
+            }
+        ]
+    },
+    "1854": {
+        "chapter": 15,
+        "verse-number": 52,
+        "verse-arabic": "إِذْ دَخَلُوا عَلَيْهِ فَقَالُوا سَلَامًا قَالَ إِنَّا مِنكُمْ وَجِلُونَ",
+        "verse-english": "When they entered upon him and said, \"Peace.\" [Abraham] said, \"Indeed, we are fearful of you.\"",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "When they entered upon him and said,"
+            },
+            {
+                "clause": "\"Peace."
+            },
+            {
+                "clause": "\" [Abraham] said,"
+            },
+            {
+                "clause": "\"Indeed,"
+            },
+            {
+                "clause": "we are fearful of you."
+            },
+            {
+                "clause": "\""
+            }
+        ]
+    },
+    "1855": {
+        "chapter": 15,
+        "verse-number": 53,
+        "verse-arabic": "قَالُوا لَا تَوْجَلْ إِنَّا نُبَشِّرُكَ بِغُلَامٍ عَلِيمٍ",
+        "verse-english": "[The angels] said, \"Fear not. Indeed, we give you good tidings of a learned boy.\"",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "[The angels] said,"
+            },
+            {
+                "clause": "\"Fear not."
+            },
+            {
+                "clause": "Indeed,"
+            },
+            {
+                "clause": "we give you good tidings of a learned boy."
+            },
+            {
+                "clause": "\""
+            }
+        ]
+    },
+    "1856": {
+        "chapter": 15,
+        "verse-number": 54,
+        "verse-arabic": "قَالَ أَبَشَّرْتُمُونِي عَلَىٰ أَن مَّسَّنِيَ الْكِبَرُ فَبِمَ تُبَشِّرُونَ",
+        "verse-english": "He said, \"Have you given me good tidings although old age has come upon me? Then of what [wonder] do you inform?\"",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "He said,"
+            },
+            {
+                "clause": "\"Have you given me good tidings although old age has come upon me?"
+            },
+            {
+                "clause": "Then of what [wonder] do you inform?"
+            },
+            {
+                "clause": "\""
+            }
+        ]
+    },
+    "1857": {
+        "chapter": 15,
+        "verse-number": 55,
+        "verse-arabic": "قَالُوا بَشَّرْنَاكَ بِالْحَقِّ فَلَا تَكُن مِّنَ الْقَانِطِينَ",
+        "verse-english": "They said, \"We have given you good tidings in truth, so do not be of the despairing.\"",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "They said,"
+            },
+            {
+                "clause": "\"We have given you good tidings in truth,"
+            },
+            {
+                "clause": "so do not be of the despairing."
+            },
+            {
+                "clause": "\""
+            }
+        ]
+    },
+    "1858": {
+        "chapter": 15,
+        "verse-number": 56,
+        "verse-arabic": "قَالَ وَمَن يَقْنَطُ مِن رَّحْمَةِ رَبِّهِ إِلَّا الضَّالُّونَ",
+        "verse-english": "He said, \"And who despairs of the mercy of his Lord except for those astray?\"",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "He said,"
+            },
+            {
+                "clause": "\"And who despairs of the mercy of his Lord except for those astray?"
+            },
+            {
+                "clause": "\""
+            }
+        ]
+    },
+    "1859": {
+        "chapter": 15,
+        "verse-number": 57,
+        "verse-arabic": "قَالَ فَمَا خَطْبُكُمْ أَيُّهَا الْمُرْسَلُونَ",
+        "verse-english": "[Abraham] said, \"Then what is your business [here], O messengers?\"",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "[Abraham] said,"
+            },
+            {
+                "clause": "\"Then what is your business [here],"
+            },
+            {
+                "clause": "O messengers?"
+            },
+            {
+                "clause": "\""
+            }
+        ]
+    },
+    "1860": {
+        "chapter": 15,
+        "verse-number": 58,
+        "verse-arabic": "قَالُوا إِنَّا أُرْسِلْنَا إِلَىٰ قَوْمٍ مُّجْرِمِينَ",
+        "verse-english": "They said, \"Indeed, we have been sent to a people of criminals,",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "They said,"
+            },
+            {
+                "clause": "\"Indeed,"
+            },
+            {
+                "clause": "we have been sent to a people of criminals,"
+            }
+        ]
+    },
+    "1861": {
+        "chapter": 15,
+        "verse-number": 59,
+        "verse-arabic": "إِلَّا آلَ لُوطٍ إِنَّا لَمُنَجُّوهُمْ أَجْمَعِينَ",
+        "verse-english": "Except the family of Lot; indeed, we will save them all",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Except the family of Lot;"
+            },
+            {
+                "clause": "indeed,"
+            },
+            {
+                "clause": "we will save them all"
+            }
+        ]
+    },
+    "1862": {
+        "chapter": 15,
+        "verse-number": 60,
+        "verse-arabic": "إِلَّا امْرَأَتَهُ قَدَّرْنَا ۙ إِنَّهَا لَمِنَ الْغَابِرِينَ",
+        "verse-english": "Except his wife.\" Allah decreed that she is of those who remain behind.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Except his wife."
+            },
+            {
+                "clause": "\" God decreed that she is of those who remain behind."
+            }
+        ]
+    },
+    "1863": {
+        "chapter": 15,
+        "verse-number": 61,
+        "verse-arabic": "فَلَمَّا جَاءَ آلَ لُوطٍ الْمُرْسَلُونَ",
+        "verse-english": "And when the messengers came to the family of Lot,",
+        "clauses-arabic": [
+            {
+                "clause": "فَلَمَّا جَاءَ آلَ لُوطٍ الْمُرْسَلُونَ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And when the messengers came to the family of Lot,"
+            }
+        ]
+    },
+    "1864": {
+        "chapter": 15,
+        "verse-number": 62,
+        "verse-arabic": "قَالَ إِنَّكُمْ قَوْمٌ مُّنكَرُونَ",
+        "verse-english": "He said, \"Indeed, you are people unknown.\"",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "He said,"
+            },
+            {
+                "clause": "\"Indeed,"
+            },
+            {
+                "clause": "you are people unknown."
+            },
+            {
+                "clause": "\""
+            }
+        ]
+    },
+    "1865": {
+        "chapter": 15,
+        "verse-number": 63,
+        "verse-arabic": "قَالُوا بَلْ جِئْنَاكَ بِمَا كَانُوا فِيهِ يَمْتَرُونَ",
+        "verse-english": "They said, \"But we have come to you with that about which they were disputing,",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "They said,"
+            },
+            {
+                "clause": "\"But we have come to you with that about which they were disputing,"
+            }
+        ]
+    },
+    "1866": {
+        "chapter": 15,
+        "verse-number": 64,
+        "verse-arabic": "وَأَتَيْنَاكَ بِالْحَقِّ وَإِنَّا لَصَادِقُونَ",
+        "verse-english": "And we have come to you with truth, and indeed, we are truthful.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And we have come to you with truth,"
+            },
+            {
+                "clause": "and indeed,"
+            },
+            {
+                "clause": "we are truthful."
+            }
+        ]
+    },
+    "1867": {
+        "chapter": 15,
+        "verse-number": 65,
+        "verse-arabic": "فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِّنَ اللَّيْلِ وَاتَّبِعْ أَدْبَارَهُمْ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ وَامْضُوا حَيْثُ تُؤْمَرُونَ",
+        "verse-english": "So set out with your family during a portion of the night and follow behind them and let not anyone among you look back and continue on to where you are commanded.\"",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "So set out with your family during a portion of the night and follow behind them and let not anyone among you look back and continue on to where you are commanded."
+            },
+            {
+                "clause": "\""
+            }
+        ]
+    },
+    "1868": {
+        "chapter": 15,
+        "verse-number": 66,
+        "verse-arabic": "وَقَضَيْنَا إِلَيْهِ ذَٰلِكَ الْأَمْرَ أَنَّ دَابِرَ هَٰؤُلَاءِ مَقْطُوعٌ مُّصْبِحِينَ",
+        "verse-english": "And We conveyed to him [the decree] of that matter: that those [sinners] would be eliminated by early morning.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And We conveyed to him [the decree] of that matter:"
+            },
+            {
+                "clause": "that those [sinners] would be eliminated by early morning."
+            }
+        ]
+    },
+    "1869": {
+        "chapter": 15,
+        "verse-number": 67,
+        "verse-arabic": "وَجَاءَ أَهْلُ الْمَدِينَةِ يَسْتَبْشِرُونَ",
+        "verse-english": "And the people of the city came rejoicing.",
+        "clauses-arabic": [
+            {
+                "clause": "وَجَاءَ أَهْلُ الْمَدِينَةِ يَسْتَبْشِرُونَ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And the people of the city came rejoicing."
+            }
+        ]
+    },
+    "1870": {
+        "chapter": 15,
+        "verse-number": 68,
+        "verse-arabic": "قَالَ إِنَّ هَٰؤُلَاءِ ضَيْفِي فَلَا تَفْضَحُونِ",
+        "verse-english": "[Lot] said, \"Indeed, these are my guests, so do not shame me.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "[Lot] said,"
+            },
+            {
+                "clause": "\"Indeed,"
+            },
+            {
+                "clause": "these are my guests,"
+            },
+            {
+                "clause": "so do not shame me."
+            }
+        ]
+    },
+    "1871": {
+        "chapter": 15,
+        "verse-number": 69,
+        "verse-arabic": "وَاتَّقُوا اللَّهَ وَلَا تُخْزُونِ",
+        "verse-english": "And fear Allah and do not disgrace me.\"",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And fear God and do not disgrace me."
+            },
+            {
+                "clause": "\""
+            }
+        ]
+    },
+    "1872": {
+        "chapter": 15,
+        "verse-number": 70,
+        "verse-arabic": "قَالُوا أَوَلَمْ نَنْهَكَ عَنِ الْعَالَمِينَ",
+        "verse-english": "They said, \"Have we not forbidden you from [protecting] people?\"",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "They said,"
+            },
+            {
+                "clause": "\"Have we not forbidden you from [protecting] people?"
+            },
+            {
+                "clause": "\""
+            }
+        ]
+    },
+    "1873": {
+        "chapter": 15,
+        "verse-number": 71,
+        "verse-arabic": "قَالَ هَٰؤُلَاءِ بَنَاتِي إِن كُنتُمْ فَاعِلِينَ",
+        "verse-english": "[Lot] said, \"These are my daughters - if you would be doers [of lawful marriage].\"",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "[Lot] said,"
+            },
+            {
+                "clause": "\"These are my daughters -"
+            },
+            {
+                "clause": "if you would be doers [of lawful marriage]."
+            },
+            {
+                "clause": "\""
+            }
+        ]
+    },
+    "1874": {
+        "chapter": 15,
+        "verse-number": 72,
+        "verse-arabic": "لَعَمْرُكَ إِنَّهُمْ لَفِي سَكْرَتِهِمْ يَعْمَهُونَ",
+        "verse-english": "By your life, [O Muhammad], indeed they were, in their intoxication, wandering blindly.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "By your life,"
+            },
+            {
+                "clause": "[O Muhammad],"
+            },
+            {
+                "clause": "indeed they were,"
+            },
+            {
+                "clause": "in their intoxication,"
+            },
+            {
+                "clause": "wandering blindly."
+            }
+        ]
+    },
+    "1875": {
+        "chapter": 15,
+        "verse-number": 73,
+        "verse-arabic": "فَأَخَذَتْهُمُ الصَّيْحَةُ مُشْرِقِينَ",
+        "verse-english": "So the shriek seized them at sunrise.",
+        "clauses-arabic": [
+            {
+                "clause": "فَأَخَذَتْهُمُ الصَّيْحَةُ مُشْرِقِينَ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "So the shriek seized them at sunrise."
+            }
+        ]
+    },
+    "1876": {
+        "chapter": 15,
+        "verse-number": 74,
+        "verse-arabic": "فَجَعَلْنَا عَالِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهِمْ حِجَارَةً مِّن سِجِّيلٍ",
+        "verse-english": "And We made the highest part [of the city] its lowest and rained upon them stones of hard clay.",
+        "clauses-arabic": [
+            {
+                "clause": "فَجَعَلْنَا عَالِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهِمْ حِجَارَةً مِّن سِجِّيلٍ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And We made the highest part [of the city] its lowest and rained upon them stones of hard clay."
+            }
+        ]
+    },
+    "1877": {
+        "chapter": 15,
+        "verse-number": 75,
+        "verse-arabic": "إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّلْمُتَوَسِّمِينَ",
+        "verse-english": "Indeed in that are signs for those who discern.",
+        "clauses-arabic": [
+            {
+                "clause": "إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّلْمُتَوَسِّمِينَ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Indeed in that are signs for those who discern."
+            }
+        ]
+    },
+    "1878": {
+        "chapter": 15,
+        "verse-number": 76,
+        "verse-arabic": "وَإِنَّهَا لَبِسَبِيلٍ مُّقِيمٍ",
+        "verse-english": "And indeed, those cities are [situated] on an established road.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And indeed,"
+            },
+            {
+                "clause": "those cities are [situated] on an established road."
+            }
+        ]
+    },
+    "1879": {
+        "chapter": 15,
+        "verse-number": 77,
+        "verse-arabic": "إِنَّ فِي ذَٰلِكَ لَآيَةً لِّلْمُؤْمِنِينَ",
+        "verse-english": "Indeed in that is a sign for the believers.",
+        "clauses-arabic": [
+            {
+                "clause": "إِنَّ فِي ذَٰلِكَ لَآيَةً لِّلْمُؤْمِنِينَ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Indeed in that is a sign for the believers."
+            }
+        ]
+    },
+    "1880": {
+        "chapter": 15,
+        "verse-number": 78,
+        "verse-arabic": "وَإِن كَانَ أَصْحَابُ الْأَيْكَةِ لَظَالِمِينَ",
+        "verse-english": "And the companions of the thicket were [also] wrongdoers.",
+        "clauses-arabic": [
+            {
+                "clause": "وَإِن كَانَ أَصْحَابُ الْأَيْكَةِ لَظَالِمِينَ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And the companions of the thicket were [also] wrongdoers."
+            }
+        ]
+    },
+    "1881": {
+        "chapter": 15,
+        "verse-number": 79,
+        "verse-arabic": "فَانتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍ مُّبِينٍ",
+        "verse-english": "So We took retribution from them, and indeed, both [cities] are on a clear highway.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "So We took retribution from them,"
+            },
+            {
+                "clause": "and indeed,"
+            },
+            {
+                "clause": "both [cities] are on a clear highway."
+            }
+        ]
+    },
+    "1882": {
+        "chapter": 15,
+        "verse-number": 80,
+        "verse-arabic": "وَلَقَدْ كَذَّبَ أَصْحَابُ الْحِجْرِ الْمُرْسَلِينَ",
+        "verse-english": "And certainly did the companions of Thamud deny the messengers.",
+        "clauses-arabic": [
+            {
+                "clause": "وَلَقَدْ كَذَّبَ أَصْحَابُ الْحِجْرِ الْمُرْسَلِينَ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And certainly did the companions of Thamud deny the messengers."
+            }
+        ]
+    },
+    "1883": {
+        "chapter": 15,
+        "verse-number": 81,
+        "verse-arabic": "وَآتَيْنَاهُمْ آيَاتِنَا فَكَانُوا عَنْهَا مُعْرِضِينَ",
+        "verse-english": "And We gave them Our signs, but from them they were turning away.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And We gave them Our signs,"
+            },
+            {
+                "clause": "but from them they were turning away."
+            }
+        ]
+    },
+    "1884": {
+        "chapter": 15,
+        "verse-number": 82,
+        "verse-arabic": "وَكَانُوا يَنْحِتُونَ مِنَ الْجِبَالِ بُيُوتًا آمِنِينَ",
+        "verse-english": "And they used to carve from the mountains, houses, feeling secure.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And they used to carve from the mountains,"
+            },
+            {
+                "clause": "houses,"
+            },
+            {
+                "clause": "feeling secure."
+            }
+        ]
+    },
+    "1885": {
+        "chapter": 15,
+        "verse-number": 83,
+        "verse-arabic": "فَأَخَذَتْهُمُ الصَّيْحَةُ مُصْبِحِينَ",
+        "verse-english": "But the shriek seized them at early morning.",
+        "clauses-arabic": [
+            {
+                "clause": "فَأَخَذَتْهُمُ الصَّيْحَةُ مُصْبِحِينَ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "But the shriek seized them at early morning."
+            }
+        ]
+    },
+    "1886": {
+        "chapter": 15,
+        "verse-number": 84,
+        "verse-arabic": "فَمَا أَغْنَىٰ عَنْهُم مَّا كَانُوا يَكْسِبُونَ",
+        "verse-english": "So nothing availed them [from] what they used to earn.",
+        "clauses-arabic": [
+            {
+                "clause": "فَمَا أَغْنَىٰ عَنْهُم مَّا كَانُوا يَكْسِبُونَ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "So nothing availed them [from] what they used to earn."
+            }
+        ]
+    },
+    "1887": {
+        "chapter": 15,
+        "verse-number": 85,
+        "verse-arabic": "وَمَا خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ ۗ وَإِنَّ السَّاعَةَ لَآتِيَةٌ ۖ فَاصْفَحِ الصَّفْحَ الْجَمِيلَ",
+        "verse-english": "And We have not created the heavens and earth and that between them except in truth. And indeed, the Hour is coming; so forgive with gracious forgiveness.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And We have not created the heavens and earth and that between them except in truth."
+            },
+            {
+                "clause": "And indeed,"
+            },
+            {
+                "clause": "the Hour is coming;"
+            },
+            {
+                "clause": "so forgive with gracious forgiveness."
+            }
+        ]
+    },
+    "1888": {
+        "chapter": 15,
+        "verse-number": 86,
+        "verse-arabic": "إِنَّ رَبَّكَ هُوَ الْخَلَّاقُ الْعَلِيمُ",
+        "verse-english": "Indeed, your Lord - He is the Knowing Creator.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Indeed,"
+            },
+            {
+                "clause": "your Lord -"
+            },
+            {
+                "clause": "He is the Knowing Creator."
+            }
+        ]
+    },
+    "1889": {
+        "chapter": 15,
+        "verse-number": 87,
+        "verse-arabic": "وَلَقَدْ آتَيْنَاكَ سَبْعًا مِّنَ الْمَثَانِي وَالْقُرْآنَ الْعَظِيمَ",
+        "verse-english": "And We have certainly given you, [O Muhammad], seven of the often repeated [verses] and the great Qur'an.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And We have certainly given you,"
+            },
+            {
+                "clause": "[O Muhammad],"
+            },
+            {
+                "clause": "seven of the often repeated [verses] and the great Qur'an."
+            }
+        ]
+    },
+    "1890": {
+        "chapter": 15,
+        "verse-number": 88,
+        "verse-arabic": "لَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِّنْهُمْ وَلَا تَحْزَنْ عَلَيْهِمْ وَاخْفِضْ جَنَاحَكَ لِلْمُؤْمِنِينَ",
+        "verse-english": "Do not extend your eyes toward that by which We have given enjoyment to [certain] categories of the disbelievers, and do not grieve over them. And lower your wing to the believers",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Do not extend your eyes toward that by which We have given enjoyment to [certain] categories of the disbelievers,"
+            },
+            {
+                "clause": "and do not grieve over them."
+            },
+            {
+                "clause": "And lower your wing to the believers"
+            }
+        ]
+    },
+    "1891": {
+        "chapter": 15,
+        "verse-number": 89,
+        "verse-arabic": "وَقُلْ إِنِّي أَنَا النَّذِيرُ الْمُبِينُ",
+        "verse-english": "And say, \"Indeed, I am the clear warner\" -",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And say,"
+            },
+            {
+                "clause": "\"Indeed,"
+            },
+            {
+                "clause": "I am the clear warner\" -"
+            }
+        ]
+    },
+    "1892": {
+        "chapter": 15,
+        "verse-number": 90,
+        "verse-arabic": "كَمَا أَنزَلْنَا عَلَى الْمُقْتَسِمِينَ",
+        "verse-english": "Just as We had revealed [scriptures] to the separators",
+        "clauses-arabic": [
+            {
+                "clause": "كَمَا أَنزَلْنَا عَلَى الْمُقْتَسِمِينَ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Just as We had revealed [scriptures] to the separators"
+            }
+        ]
+    },
+    "1893": {
+        "chapter": 15,
+        "verse-number": 91,
+        "verse-arabic": "الَّذِينَ جَعَلُوا الْقُرْآنَ عِضِينَ",
+        "verse-english": "Who have made the Qur'an into portions.",
+        "clauses-arabic": [
+            {
+                "clause": "الَّذِينَ جَعَلُوا الْقُرْآنَ عِضِينَ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Who have made the Qur'an into portions."
+            }
+        ]
+    },
+    "1894": {
+        "chapter": 15,
+        "verse-number": 92,
+        "verse-arabic": "فَوَرَبِّكَ لَنَسْأَلَنَّهُمْ أَجْمَعِينَ",
+        "verse-english": "So by your Lord, We will surely question them all",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "So by your Lord,"
+            },
+            {
+                "clause": "We will surely question them all"
+            }
+        ]
+    },
+    "1895": {
+        "chapter": 15,
+        "verse-number": 93,
+        "verse-arabic": "عَمَّا كَانُوا يَعْمَلُونَ",
+        "verse-english": "About what they used to do.",
+        "clauses-arabic": [
+            {
+                "clause": "عَمَّا كَانُوا يَعْمَلُونَ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "About what they used to do."
+            }
+        ]
+    },
+    "1896": {
+        "chapter": 15,
+        "verse-number": 94,
+        "verse-arabic": "فَاصْدَعْ بِمَا تُؤْمَرُ وَأَعْرِضْ عَنِ الْمُشْرِكِينَ",
+        "verse-english": "Then declare what you are commanded and turn away from the polytheists.",
+        "clauses-arabic": [
+            {
+                "clause": "فَاصْدَعْ بِمَا تُؤْمَرُ وَأَعْرِضْ عَنِ الْمُشْرِكِينَ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Then declare what you are commanded and turn away from the polytheists."
+            }
+        ]
+    },
+    "1897": {
+        "chapter": 15,
+        "verse-number": 95,
+        "verse-arabic": "إِنَّا كَفَيْنَاكَ الْمُسْتَهْزِئِينَ",
+        "verse-english": "Indeed, We are sufficient for you against the mockers",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Indeed,"
+            },
+            {
+                "clause": "We are sufficient for you against the mockers"
+            }
+        ]
+    },
+    "1898": {
+        "chapter": 15,
+        "verse-number": 96,
+        "verse-arabic": "الَّذِينَ يَجْعَلُونَ مَعَ اللَّهِ إِلَٰهًا آخَرَ ۚ فَسَوْفَ يَعْلَمُونَ",
+        "verse-english": "Who make [equal] with Allah another deity. But they are going to know.",
+        "clauses-arabic": [
+            {
+                "clause": ""
+            },
+            {
+                "clause": ""
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "Who make [equal] with God another deity."
+            },
+            {
+                "clause": "But they are going to know."
+            }
+        ]
+    },
+    "1899": {
+        "chapter": 15,
+        "verse-number": 97,
+        "verse-arabic": "وَلَقَدْ نَعْلَمُ أَنَّكَ يَضِيقُ صَدْرُكَ بِمَا يَقُولُونَ",
+        "verse-english": "And We already know that your breast is constrained by what they say.",
+        "clauses-arabic": [
+            {
+                "clause": "وَلَقَدْ نَعْلَمُ أَنَّكَ يَضِيقُ صَدْرُكَ بِمَا يَقُولُونَ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And We already know that your breast is constrained by what they say."
+            }
+        ]
+    },
+    "1900": {
+        "chapter": 15,
+        "verse-number": 98,
+        "verse-arabic": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَكُن مِّنَ السَّاجِدِينَ",
+        "verse-english": "So exalt [Allah] with praise of your Lord and be of those who prostrate [to Him].",
+        "clauses-arabic": [
+            {
+                "clause": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَكُن مِّنَ السَّاجِدِينَ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "So exalt [God] with praise of your Lord and be of those who prostrate [to Him]."
+            }
+        ]
+    },
+    "1901": {
+        "chapter": 15,
+        "verse-number": 99,
+        "verse-arabic": "وَاعْبُدْ رَبَّكَ حَتَّىٰ يَأْتِيَكَ الْيَقِينُ",
+        "verse-english": "And worship your Lord until there comes to you the certainty (death).",
+        "clauses-arabic": [
+            {
+                "clause": "وَاعْبُدْ رَبَّكَ حَتَّىٰ يَأْتِيَكَ الْيَقِينُ"
+            }
+        ],
+        "clauses-english": [
+            {
+                "clause": "And worship your Lord until there comes to you the certainty (death)."
+            }
+        ]
+    }
+}
