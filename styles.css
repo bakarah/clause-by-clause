@@ -1,4 +1,4 @@
-@font-face {
+/*@font-face {
 	font-family: "KawkabMono";
 	font-style: normal;
 	font-weight: 300;
@@ -23,7 +23,7 @@
 	src: local("KawkabMono Bold"), local("KawkabMono-Bold"),
 		url(fonts/KawkabMono-Bold.woff2) format("woff2"),
 		url(fonts/KawkabMono-Bold.woff2) format("woff");
-}
+}*/
 body {
   margin: 0;
   font: 14px/1.4 -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
@@ -42,7 +42,7 @@ tr.clause td {
 td.ar {
     direction: rtl;
     font-size: 1.8em;
-    font-family: KawkabMono, 'Droid Arabic Naskh',serif!important;
+    font-family: 'Droid Arabic Naskh',serif!important;
 }
 table {
     border: 1px solid #ccc;
@@ -76,7 +76,7 @@ small {
 }
 .full-verse td {
     padding: 0.3em 0.6em;
-    font-family: KawkabMono, 'Droid Arabic Naskh',serif!important;
+    font-family: 'Droid Arabic Naskh',serif!important;
     direction: rtl;
     font-size: 1.8em;
     background-color: aliceblue;
