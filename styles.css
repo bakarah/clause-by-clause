@@ -98,13 +98,21 @@ td.en {
     font-weight: 500;
 }
 button {
-    font-size: 2em;
+    font-size: 1.5em;
 }
 .hidden {
     display: none;
 }
 .buttons {
-	display: flex;
-    justify-content: space-around;
+    display: flex;
+    flex-direction: column;
     margin-bottom: 2em;
+}
+@media only screen and (min-width: 640px) {
+.buttons {
+    justify-content: space-around;
+}
+button {
+    font-size: 2em;
+}
 }
