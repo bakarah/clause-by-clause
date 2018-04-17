@@ -1,6 +1,8 @@
 # The Quran with Verses Grouped by Clause
 ## English and Arabic
 
+https://javanigus.github.io/clause-by-clause/
+
 ### To Update
 1. Open chapter in browser, e.g. https://javanigus.github.io/clause-by-clause/?chapter=36
 2. Copy JSON content into a text editor, e.g. Sublime Text
