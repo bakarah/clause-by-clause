@@ -128,6 +128,7 @@
 <div class="buttons">
 	<button class="toggle-verse">Toggle Full Verse Rows</button>
 	<button class="toggle-clause">Toggle Clause Rows</button>
+	<button class="toggle-english">Toggle English</button>
 </div>
 
 <table></table>
@@ -224,6 +225,15 @@
 			$clause.removeClass("hidden");
 		} else {
 			$clause.addClass("hidden");
+		}
+	});
+
+	$(".toggle-english").on("click", function (event) {
+		var $english = $(".en");
+		if ($english.hasClass("hidden")) {
+			$english.removeClass("hidden");
+		} else {
+			$english.addClass("hidden");
 		}
 	});
 }(jQuery));
