@@ -125,6 +125,11 @@
 <option value="114">114. An-Nas (The Men)</option>
 </select>
 
+<div class="buttons">
+	<button class="toggle-verse">Toggle Full Verse Rows</button>
+	<button class="toggle-clause">Toggle Clause Rows</button>
+</div>
+
 <table></table>
 
 <small>By Abdullah (David) Yahya</small>
@@ -196,6 +201,30 @@
 				}
 			})
 		})
+	});
+}(jQuery));
+</script>
+
+<script>
+(function ($) {
+	"use strict";
+
+	$(".toggle-verse").on("click", function (event) {
+		$fullVerse = $(".full-verse");
+		if ($fullVerse.hasClass("hidden")) {
+			$fullVerse.removeClass("hidden");
+		} else {
+			$fullVerse.addClass("hidden");
+		}
+	});
+
+	$(".toggle-clause").on("click", function (event) {
+		$clause = $(".clause");
+		if ($clause.hasClass("hidden")) {
+			$clause.removeClass("hidden");
+		} else {
+			$clause.addClass("hidden");
+		}
 	});
 }(jQuery));
 </script>
