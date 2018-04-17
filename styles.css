@@ -97,3 +97,14 @@ td.en {
     font-size: 1.2em;
     font-weight: 500;
 }
+button {
+    font-size: 2em;
+}
+.hidden {
+    display: none;
+}
+.buttons {
+	display: flex;
+    justify-content: space-around;
+    margin-bottom: 2em;
+}
