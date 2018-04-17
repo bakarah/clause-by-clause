@@ -210,7 +210,7 @@
 	"use strict";
 
 	$(".toggle-verse").on("click", function (event) {
-		$fullVerse = $(".full-verse");
+		var $fullVerse = $(".full-verse");
 		if ($fullVerse.hasClass("hidden")) {
 			$fullVerse.removeClass("hidden");
 		} else {
@@ -219,7 +219,7 @@
 	});
 
 	$(".toggle-clause").on("click", function (event) {
-		$clause = $(".clause");
+		var $clause = $(".clause");
 		if ($clause.hasClass("hidden")) {
 			$clause.removeClass("hidden");
 		} else {
