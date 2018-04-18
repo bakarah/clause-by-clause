@@ -1,9 +1,11 @@
 # The Quran with Verses Grouped by Clause
 ## English and Arabic
 
+Each verse in the Quran contains one or more sentences. I don't see any particular reason or benefit for it to be that way. There are also no paragraphs to group related sentences. To facilitate reading and understanding the Quran, this project subdivides each verse into clauses.
+
 https://javanigus.github.io/clause-by-clause/
 
-### To Update
+### How to Update JSON Files
 1. Open chapter in browser, e.g. https://javanigus.github.io/clause-by-clause/?chapter=36
 2. Copy JSON content into a text editor, e.g. Sublime Text
 3. Edit English clauses in text editor
