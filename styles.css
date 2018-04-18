@@ -94,6 +94,14 @@ select {
 option {
     font-weight: 700;
 }
+tr.clause.column td {
+    width: 100%;
+    box-sizing: border-box;
+}
+tr.clause.column {	
+    display: flex;
+    flex-direction: column-reverse;
+}
 td.en {
     font-size: 1.2em;
     font-weight: 500;
