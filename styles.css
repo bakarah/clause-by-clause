@@ -100,6 +100,9 @@ td.en {
 }
 button {
     font-size: 1.5em;
+    margin-bottom: 1em;
+    border: 1px solid #ccc;
+    padding: 1em;
 }
 .hidden {
     display: none;
