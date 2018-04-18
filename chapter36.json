@@ -86,12 +86,18 @@
 		"verse-english": "That you may warn a people whose forefathers were not warned, so they are unaware.",
 		"clauses-arabic": [
 			{
-				"clause": "لِتُنذِرَ قَوْمًا مَّا أُنذِرَ آبَاؤُهُمْ فَهُمْ غَافِلُونَ"
+				"clause": "لِتُنذِرَ قَوْمًا مَّا أُنذِرَ آبَاؤُهُمْ "
+			},
+			{
+				"clause": "فَهُمْ غَافِلُونَ"
 			}
 		],
 		"clauses-english": [
 			{
-				"clause": "That you may warn a people whose forefathers were not warned, so they are unaware."
+				"clause": "That you may warn a people whose forefathers were not warned,"
+			},
+			{
+				"clause": "so they are unaware."
 			}
 		]
 	},
