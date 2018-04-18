@@ -103,6 +103,7 @@ button {
     margin-bottom: 1em;
     padding: 1em;
     max-width: 50%;
+    border: 1px solid #ccc;
 }
 .hidden {
     display: none;
