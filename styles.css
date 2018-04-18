@@ -117,6 +117,10 @@ td.en {
     align-items: center;
     border-radius: 5px;
 }
+.buttons div:hover {
+	cursor: pointer;
+	background-color: #b6c1c1;
+}
 .hidden {
     display: none;
 }
