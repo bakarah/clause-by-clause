@@ -98,21 +98,25 @@ td.en {
     font-size: 1.2em;
     font-weight: 500;
 }
-button {
-    font-size: 1.5em;
-    margin-bottom: 1em;
+.button div {
+    margin: 1em;
+    text-align: center;
+    background-color: #b1dad8;
     padding: 1em;
-    max-width: 50%;
-    border: 1px solid #ccc;
+    width: 50%;
+    max-width: 100px;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
 }
 .hidden {
     display: none;
 }
 .buttons {
     display: flex;
-    flex-direction: column;
     margin-bottom: 2em;
     justify-content: center;
+    flex-wrap: wrap;
 }
 @media only screen and (min-width: 640px) {
 .buttons {
