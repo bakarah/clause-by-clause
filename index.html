@@ -129,6 +129,7 @@
 	<div class="toggle-verse">Toggle Full Verse Rows</div>
 	<div class="toggle-clause">Toggle Clause Rows</div>
 	<div class="toggle-english">Toggle English</div>
+	<div class="toggle-side">Toggle Side by Side</div>
 </div>
 
 <table></table>
@@ -234,6 +235,15 @@
 			$english.removeClass("hidden");
 		} else {
 			$english.addClass("hidden");
+		}
+	});
+
+	$(".toggle-side").on("click", function (event) {
+		var $clause = $(".clause");
+		if ($clause.hasClass("column")) {
+			$clause.removeClass("column");
+		} else {
+			$clause.addClass("column");
 		}
 	});
 }(jQuery));
