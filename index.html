@@ -1,3 +1,20 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Marketplace
+Explore
+ @javanigus
+Sign out
+1
+0 0 javanigus/clause-by-clause
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
+clause-by-clause/index.html
+5ca50cf  2 days ago
+@javanigus javanigus Update index.html
+     
+255 lines (236 sloc)  9.72 KB
 <html>
 <head>
 <meta charset="utf-8">
@@ -142,31 +159,24 @@ Each verse in the Quran contains one or more sentences (for some reason). This p
 <script>
 (function ($) {
 	"use strict";
-
 	var search = window.location.search;
-
 	if (search === "") {
 		window.location.href = "?chapter=1";
 	} else {
 		var chapter = window.location.search.replace("?chapter=", "");
 		chapter = parseInt(chapter);
-
 		if (chapter < 1 || chapter > 114 || isNaN(chapter)) {
 			window.location.href = "?chapter=1";
 		}
 	}
-
 	$(document).ready(function () {
 		$("select").on("change", function (event) {
 			window.location.href = "?chapter=" + this.value;
 		});
-
 		var jsonFile = "chapter" + chapter + ".json";
 		$("[value='" + chapter + "']").prop("selected", true);
-
 		$.getJSON(jsonFile, function(json_data) {
 			var table_obj = $('table');
-
 			$.each(json_data, function(index, item) {
 				var table_row = $('<tr>', {
 						class: 'verse'
@@ -177,7 +187,6 @@ Each verse in the Quran contains one or more sentences (for some reason). This p
 				});
 				table_row.append(table_cell);
 				table_obj.append(table_row);
-
 				table_row = $('<tr>', {
 						class: 'full-verse'
 				});
@@ -192,13 +201,13 @@ Each verse in the Quran contains one or more sentences (for some reason). This p
 								class: 'clause'
 						});
 						var table_cell = $('<td>', {
-								class: 'en',
-								html: item["clauses-english"][i]["clause"]
+								class: 'ar',
+								html: item["clauses-arabic"][i]["clause"]
 						});
 						table_row.append(table_cell);
 						var table_cell = $('<td>', {
-								class: 'ar',
-								html: item["clauses-arabic"][i]["clause"]
+								class: 'en',
+								html: item["clauses-english"][i]["clause"]
 						});
 						table_row.append(table_cell);
 						table_obj.append(table_row);
@@ -212,7 +221,6 @@ Each verse in the Quran contains one or more sentences (for some reason). This p
 <script>
 (function ($) {
 	"use strict";
-
 	$(".toggle-verse").on("click", function (event) {
 		var $fullVerse = $(".full-verse");
 		if ($fullVerse.hasClass("hidden")) {
@@ -221,7 +229,6 @@ Each verse in the Quran contains one or more sentences (for some reason). This p
 			$fullVerse.addClass("hidden");
 		}
 	});
-
 	$(".toggle-clause").on("click", function (event) {
 		var $clause = $(".clause");
 		if ($clause.hasClass("hidden")) {
@@ -230,7 +237,6 @@ Each verse in the Quran contains one or more sentences (for some reason). This p
 			$clause.addClass("hidden");
 		}
 	});
-
 	$(".toggle-english").on("click", function (event) {
 		var $english = $(".en");
 		if ($english.hasClass("hidden")) {
@@ -239,7 +245,6 @@ Each verse in the Quran contains one or more sentences (for some reason). This p
 			$english.addClass("hidden");
 		}
 	});
-
 	$(".toggle-side").on("click", function (event) {
 		var $clause = $(".clause");
 		if ($clause.hasClass("column")) {
@@ -252,3 +257,16 @@ Each verse in the Quran contains one or more sentences (for some reason). This p
 </script>
 </body>
 </html>
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+API
+Training
+Shop
+Blog
+About
+Press h to open a hovercard with more details.
