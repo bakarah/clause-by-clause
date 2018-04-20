@@ -100,7 +100,7 @@ tr.clause.column td {
 }
 tr.clause.column {	
     display: flex;
-    flex-direction: column-reverse;
+    flex-direction: column;
 }
 td.en {
     font-size: 1.2em;
